@@ -1,0 +1,1858 @@
+Google(function(){window.google={kEI:'JPdmXJTzBsn6vASz3bnIBg',kEXPI:'0,201940,1,1151805,58,1958,1016,1406,697,528,730,1448,1,350,30,1227,806,19,70,1095,337,95,56,4,2334572,329566,1294,12383,4855,32692,15247,867,12163,6381,3335,2,2,6801,369,1166,2148,1263,4242,224,1016,1202,260,3742,1365,575,835,284,2,1306,2432,58,2,2,2,1297,4323,3390,8,300,1269,774,2249,978,430,2487,850,1146,5,2,2,1743,220,2595,182,3419,669,1050,1808,1128,269,81,7,3,488,620,29,989,406,442,16,2616,536,696,1456,1,3146,876,412,2,554,2165,470,380,438,796,1220,38,363,557,718,155,1217,1336,28,484,47,1080,542,2194,48,1454,56,1245,258,2,366,265,218,2185,159,2,4,2,670,44,334,1853,349,167,82,96,1777,125,492,1875,240,12,87,5,528,464,574,376,44,306,25,330,639,126,16,1,92,229,234,20,2,46,387,93,67,1174,996,14,131,186,12,8,443,96,21,587,366,457,210,222,3,763,207,217,197,136,63,34,2,390,30,772,2,284,229,104,70,102,121,56,80,18,4,58,192,139,161,71,117,96,7,166,49,124,35,142,601,346,12,1148,140,76,202,220,5959574,13,2541,235,19,22,11,5997207,2800292,4,1572,549,333,444,1,2,80,1,900,583,9,304,1,8,1,2,2132,1,1,1,1,1,414,1,748,141,59,726,3,7,563,1,599,39,66,3,30,1,7,5,1,1,1,1,1,1,1,1,1,2,1,2,4,14,5,44,18,9,1,1,1,1,3,1,1,1,2,1,1,1,3,2,8,23,14,8,5,20,17,22306165',authuser:0,kscs:'c9c918f0_JPdmXJTzBsn6vASz3bnIBg',kGL:'IN'};google.kHL='en-IN';})();google.time=function(){return(new Date).getTime()};(function(){google.lc=[];google.li=0;google.getEI=function(a){for(var b;a&&(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||google.kEI};google.getLEI=function(a){for(var b=null;a&&(!a.getAttribute||!(b=a.getAttribute("leid")));)a=a.parentNode;return b};google.https=function(){return"https:"==window.location.protocol};google.ml=function(){return null};google.log=function(a,b,e,c,g){if(a=google.logUrl(a,b,e,c,g)){b=new Image;var d=google.lc,f=google.li;d[f]=b;b.onerror=b.onload=b.onabort=function(){delete d[f]};google.vel&&google.vel.lu&&google.vel.lu(a);b.src=a;google.li=f+1}};google.logUrl=function(a,b,e,c,g){var d="",f=google.ls||"";e||-1!=b.search("&ei=")||(d="&ei="+google.getEI(c),-1==b.search("&lei=")&&(c=google.getLEI(c))&&(d+="&lei="+c));c="";!e&&google.cshid&&-1==b.search("&cshid=")&&"slh"!=a&&(c="&cshid="+google.cshid);a=e||"/"+(g||"gen_204")+"?atyp=i&ct="+a+"&cad="+b+d+f+"&zx="+google.time()+c;/^http:/i.test(a)&&google.https()&&(google.ml(Error("a"),!1,{src:a,glmm:1}),a="");return a};}).call(this);(function(){google.y={};google.x=function(a,b){if(a)var c=a.id;else{do c=Math.random();while(google.y[c])}google.y[c]=[a,b];return!1};google.lm=[];google.plm=function(a){google.lm.push.apply(google.lm,a)};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadAll=function(a,b){google.lq.push([a,b])};}).call(this);google.f={};var a=window.location,b=a.href.indexOf("#");if(0#gbar,#guser{font-size:13px;padding-top:1px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
+(function(){var src='/images/nav_logo229.png';var iesg=false;document.body.onload = function(){window.n && window.n();if (document.images){new Image().src=src;}
+if (!iesg){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus();}
+}
+})(); Search Images Maps Play YouTube News Gmail Drive More &raquo;Web History | Settings | Sign in &nbsp;Advanced searchLanguage tools(function(){var a,b="1";if(document&&document.getElementById)if("undefined"!=typeof XMLHttpRequest)b="2";else if("undefined"!=typeof ActiveXObject){var c,d,e=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"];for(c=0;d=e[c++];)try{new ActiveXObject(d),b="2"}catch(h){}}a=b;if("2"==a&&-1==location.search.indexOf("&gbv=2")){var f=google.gbvu,g=document.getElementById("gbv");g&&(g.value=a);f&&window.setTimeout(function(){location.href=f},0)};}).call(this);Google offered in:  &#2361;&#2367;&#2344;&#2381;&#2342;&#2368;    &#2476;&#2494;&#2434;&#2482;&#2494;    &#3108;&#3142;&#3122;&#3137;&#3095;&#3137;    &#2350;&#2352;&#2366;&#2336;&#2368;    &#2980;&#2990;&#3007;&#2996;&#3021;    &#2711;&#2753;&#2716;&#2736;&#2750;&#2724;&#2752;    &#3221;&#3240;&#3277;&#3240;&#3233;    &#3374;&#3378;&#3375;&#3390;&#3379;&#3330;    &#2602;&#2672;&#2588;&#2622;&#2604;&#2624;  Advertising�ProgramsBusiness Solutions+GoogleAbout GoogleGoogle.co.in&copy; 2019 - Privacy - Terms(function(){window.google.cdo={height:0,width:0};(function(){var a=window.innerWidth,b=window.innerHeight;if(!a||!b){var c=window.document,d="CSS1Compat"==c.compatMode?c.documentElement:c.body;a=d.clientWidth;b=d.clientHeight}a&&b&&(a!=google.cdo.width||b!=google.cdo.height)&&google.log("","","/client_204?&atyp=i&biw="+a+"&bih="+b+"&ei="+google.kEI);}).call(this);})();(function(){var u='/xjs/_/js/k\x3dxjs.hp.en.G8Bv2MBSjyI.O/m\x3dsb_he,d/am\x3dYsA8/rt\x3dj/d\x3d1/rs\x3dACT90oGEaQcPgy-qahxOdksClGpoo1AgPw';var b={gen204:"xjsls",clearcut:31};setTimeout(function(){var a=document.createElement("script");a.src=u;google.timers&&google.timers.load&&google.tick&&google.tick("load",b);document.body.appendChild(a)},0);})();(function(){window.google.xjsu='/xjs/_/js/k\x3dxjs.hp.en.G8Bv2MBSjyI.O/m\x3dsb_he,d/am\x3dYsA8/rt\x3dj/d\x3d1/rs\x3dACT90oGEaQcPgy-qahxOdksClGpoo1AgPw';})();function _DumpException(e){throw e;}
+(function(){var pmc='{\x22Qnk92g\x22:{},\x22THXm/A\x22:{},\x22U5B21g\x22:{},\x22YFCs/g\x22:{},\x22ZI/YVQ\x22:{},\x22csies\x22:{},\x22d\x22:{},\x22sb_he\x22:{\x22agen\x22:true,\x22cgen\x22:true,\x22client\x22:\x22heirloom-hp\x22,\x22dh\x22:true,\x22dhqt\x22:true,\x22ds\x22:\x22\x22,\x22ffql\x22:\x22en\x22,\x22fl\x22:true,\x22host\x22:\x22google.com\x22,\x22isbh\x22:28,\x22jsonp\x22:true,\x22msgs\x22:{\x22cibl\x22:\x22Clear Search\x22,\x22dym\x22:\x22Did you mean:\x22,\x22lcky\x22:\x22I\\u0026#39;m Feeling Lucky\x22,\x22lml\x22:\x22Learn more\x22,\x22oskt\x22:\x22Input tools\x22,\x22psrc\x22:\x22This search was removed from your \\u003Ca href\x3d\\\x22/history\\\x22\\u003EWeb History\\u003C/a\\u003E\x22,\x22psrl\x22:\x22Remove\x22,\x22sbit\x22:\x22Search by image\x22,\x22srch\x22:\x22Google Search\x22},\x22ovr\x22:{},\x22pq\x22:\x22\x22,\x22refpd\x22:true,\x22rfs\x22:[],\x22sbpl\x22:24,\x22sbpr\x22:24,\x22scd\x22:10,\x22sce\x22:5,\x22stok\x22:\x22m1SWMlqGp59pd9EcFInQhcV48s0\x22,\x22uhde\x22:false}}';google.pmc=JSON.parse(pmc);})();        Google(function(){window.google={kEI:'VPdmXOXIF4vkvgSThJqwAg',kEXPI:'0,201941,1151806,57,50,1907,1017,1406,698,527,730,326,1124,349,1257,805,250,828,68,39,201,135,95,57,2334596,329546,1294,12383,4855,32692,15247,867,12163,5281,1100,3335,2,2,4609,2191,364,752,420,7653,224,1017,1201,260,5107,575,835,284,2,579,727,2069,362,59,2,2,2,1297,284,4039,3390,8,300,1269,774,2256,971,430,2487,850,1146,5,2,2,1966,2487,105,3601,669,1050,1808,1128,269,81,7,3,490,618,29,989,406,458,2616,536,695,1457,1,1937,47,1162,876,412,2,554,2365,2,267,381,438,796,11,1209,401,557,681,37,155,37,1180,1211,125,28,484,47,1080,542,2194,1558,1245,626,265,218,2344,2,4,2,463,208,43,334,600,1253,187,160,169,82,98,1265,511,123,435,146,2,1011,774,240,12,87,5,528,464,574,376,44,306,25,330,639,126,18,1,319,254,2,415,18,93,514,2,1720,13,133,206,443,96,21,336,250,366,458,432,3,618,145,207,217,197,135,65,33,392,29,474,814,104,293,57,79,23,4,53,192,371,117,98,89,125,130,175,250,353,346,361,799,189,8,5960015,2554,235,20,31,8797500,4,1572,549,333,444,1,2,80,1,900,583,9,304,1,8,1,2,2132,1,1,1,1,1,414,1,748,141,59,726,3,7,563,1,599,39,66,3,30,1,7,5,1,1,1,1,1,1,1,1,1,2,1,2,4,14,5,48,14,9,1,1,1,1,3,1,1,1,1,1,1,1,1,2,3,4,7,42,5,20,17,22306165',authuser:0,kscs:'c9c918f0_VPdmXOXIF4vkvgSThJqwAg',kGL:'IN'};google.kHL='en-IN';})();google.time=function(){return(new Date).getTime()};(function(){google.lc=[];google.li=0;google.getEI=function(a){for(var b;a&&(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||google.kEI};google.getLEI=function(a){for(var b=null;a&&(!a.getAttribute||!(b=a.getAttribute("leid")));)a=a.parentNode;return b};google.https=function(){return"https:"==window.location.protocol};google.ml=function(){return null};google.log=function(a,b,e,c,g){if(a=google.logUrl(a,b,e,c,g)){b=new Image;var d=google.lc,f=google.li;d[f]=b;b.onerror=b.onload=b.onabort=function(){delete d[f]};google.vel&&google.vel.lu&&google.vel.lu(a);b.src=a;google.li=f+1}};google.logUrl=function(a,b,e,c,g){var d="",f=google.ls||"";e||-1!=b.search("&ei=")||(d="&ei="+google.getEI(c),-1==b.search("&lei=")&&(c=google.getLEI(c))&&(d+="&lei="+c));c="";!e&&google.cshid&&-1==b.search("&cshid=")&&"slh"!=a&&(c="&cshid="+google.cshid);a=e||"/"+(g||"gen_204")+"?atyp=i&ct="+a+"&cad="+b+d+f+"&zx="+google.time()+c;/^http:/i.test(a)&&google.https()&&(google.ml(Error("a"),!1,{src:a,glmm:1}),a="");return a};}).call(this);(function(){google.y={};google.x=function(a,b){if(a)var c=a.id;else{do c=Math.random();while(google.y[c])}google.y[c]=[a,b];return!1};google.lm=[];google.plm=function(a){google.lm.push.apply(google.lm,a)};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadAll=function(a,b){google.lq.push([a,b])};}).call(this);google.f={};var a=window.location,b=a.href.indexOf("#");if(0#gbar,#guser{font-size:13px;padding-top:1px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
+(function(){var src='/images/nav_logo229.png';var iesg=false;document.body.onload = function(){window.n && window.n();if (document.images){new Image().src=src;}
+if (!iesg){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus();}
+}
+})(); Search Images Maps Play YouTube News Gmail Drive More &raquo;Web History | Settings | Sign in &nbsp;Advanced searchLanguage tools(function(){var a,b="1";if(document&&document.getElementById)if("undefined"!=typeof XMLHttpRequest)b="2";else if("undefined"!=typeof ActiveXObject){var c,d,e=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"];for(c=0;d=e[c++];)try{new ActiveXObject(d),b="2"}catch(h){}}a=b;if("2"==a&&-1==location.search.indexOf("&gbv=2")){var f=google.gbvu,g=document.getElementById("gbv");g&&(g.value=a);f&&window.setTimeout(function(){location.href=f},0)};}).call(this);Google offered in:  &#2361;&#2367;&#2344;&#2381;&#2342;&#2368;    &#2476;&#2494;&#2434;&#2482;&#2494;    &#3108;&#3142;&#3122;&#3137;&#3095;&#3137;    &#2350;&#2352;&#2366;&#2336;&#2368;    &#2980;&#2990;&#3007;&#2996;&#3021;    &#2711;&#2753;&#2716;&#2736;&#2750;&#2724;&#2752;    &#3221;&#3240;&#3277;&#3240;&#3233;    &#3374;&#3378;&#3375;&#3390;&#3379;&#3330;    &#2602;&#2672;&#2588;&#2622;&#2604;&#2624;  Advertising�ProgramsBusiness Solutions+GoogleAbout GoogleGoogle.co.in&copy; 2019 - Privacy - Terms(function(){window.google.cdo={height:0,width:0};(function(){var a=window.innerWidth,b=window.innerHeight;if(!a||!b){var c=window.document,d="CSS1Compat"==c.compatMode?c.documentElement:c.body;a=d.clientWidth;b=d.clientHeight}a&&b&&(a!=google.cdo.width||b!=google.cdo.height)&&google.log("","","/client_204?&atyp=i&biw="+a+"&bih="+b+"&ei="+google.kEI);}).call(this);})();(function(){var u='/xjs/_/js/k\x3dxjs.hp.en.G8Bv2MBSjyI.O/m\x3dsb_he,d/am\x3dYsAs/rt\x3dj/d\x3d1/rs\x3dACT90oH2bFByQplfbhwDbUCrXJu8az46mw';var b={gen204:"xjsls",clearcut:31};setTimeout(function(){var a=document.createElement("script");a.src=u;google.timers&&google.timers.load&&google.tick&&google.tick("load",b);document.body.appendChild(a)},0);})();(function(){window.google.xjsu='/xjs/_/js/k\x3dxjs.hp.en.G8Bv2MBSjyI.O/m\x3dsb_he,d/am\x3dYsAs/rt\x3dj/d\x3d1/rs\x3dACT90oH2bFByQplfbhwDbUCrXJu8az46mw';})();function _DumpException(e){throw e;}
+(function(){var pmc='{\x22Qnk92g\x22:{},\x22U5B21g\x22:{},\x22YFCs/g\x22:{},\x22ZI/YVQ\x22:{},\x22d\x22:{},\x22sb_he\x22:{\x22agen\x22:true,\x22cgen\x22:true,\x22client\x22:\x22heirloom-hp\x22,\x22dh\x22:true,\x22dhqt\x22:true,\x22ds\x22:\x22\x22,\x22ffql\x22:\x22en\x22,\x22fl\x22:true,\x22host\x22:\x22google.com\x22,\x22isbh\x22:28,\x22jsonp\x22:true,\x22msgs\x22:{\x22cibl\x22:\x22Clear Search\x22,\x22dym\x22:\x22Did you mean:\x22,\x22lcky\x22:\x22I\\u0026#39;m Feeling Lucky\x22,\x22lml\x22:\x22Learn more\x22,\x22oskt\x22:\x22Input tools\x22,\x22psrc\x22:\x22This search was removed from your \\u003Ca href\x3d\\\x22/history\\\x22\\u003EWeb History\\u003C/a\\u003E\x22,\x22psrl\x22:\x22Remove\x22,\x22sbit\x22:\x22Search by image\x22,\x22srch\x22:\x22Google Search\x22},\x22ovr\x22:{},\x22pq\x22:\x22\x22,\x22refpd\x22:true,\x22rfs\x22:[],\x22sbpl\x22:24,\x22sbpr\x22:24,\x22scd\x22:10,\x22sce\x22:5,\x22stok\x22:\x22LANv6zcBinWyLJEPZuuXclamJwk\x22,\x22uhde\x22:false}}';google.pmc=JSON.parse(pmc);})();        
+
+
+
+Dog - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XenW5ApAIC8AAIl10IMAAACC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Dog","wgTitle":"Dog","wgCurRevisionId":929485161,"wgRevisionId":929485161,"wgArticleId":4269567,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with reference errors","Pages with incorrect ref formatting","CS1 Latin-language sources (la)","Webarchive template wayback links","CS1 maint: uses authors parameter","CS1 German-language sources (de)","CS1: long volume value",
+"CS1 maint: multiple names: authors list","CS1 errors: missing periodical","Wikipedia articles needing page number citations from September 2010","CS1 maint: extra text: authors list","Pages using web citations with no URL","Wikipedia indefinitely semi-protected pages","Wikipedia indefinitely move-protected pages","Use American English from December 2017","All Wikipedia articles written in American English","Articles with 'species' microformats","All articles with failed verification","Articles with failed verification from April 2016","Commons category link is locally defined","Use dmy dates from September 2018","Taxonbars desynced from Wikidata","Taxonbars using multiple manual Wikidata items","Taxonbars on possible non-taxon pages","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Domesticated animals","Dogs","Wolves",
+"Cosmopolitan vertebrates","Scavengers","Cosmopolitan species","Animal models","Extant Late Pleistocene first appearances","Mammals described in 1758","Taxa named by Carl Linnaeus"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Dog","wgRelevantArticleId":4269567,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q144","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin",
+"mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+	Dog
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This article is about the domestic dog. For related species known as "dogs", see Canidae. For other uses, see Dog (disambiguation).
+
+
+
+
+
+
+
+Domestic dogsTemporal range: At least 14,200 years ago – present&#91;2&#93;
+
+
+
+
+
+Selection of the different breeds of dog
+
+
+
+
+Conservation status
+
+
+Domesticated
+
+
+
+Scientific classification 
+
+
+Kingdom:
+
+Animalia
+
+
+Phylum:
+
+Chordata
+
+
+Class:
+
+Mammalia
+
+
+Order:
+
+Carnivora
+
+
+Family:
+
+Canidae
+
+
+Genus:
+
+Canis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Species:
+
+C.&#160;lupus
+
+
+
+Subspecies:
+
+C.&#160;l. familiaris&#91;1&#93;
+
+
+
+
+
+
+
+
+
+
+Trinomial name
+
+
+Canis lupus familiaris&#91;1&#93;Linnaeus, 1758
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Synonyms
+
+
+
+Canis familiaris Linnaeus, 1758&#91;3&#93;&#91;4&#93;
+
+
+
+
+  Dogs show great morphological variation
+The domestic dog (Canis lupus familiaris when considered a subspecies of the wolf or Canis familiaris when considered a distinct species)&#91;5&#93; is a member of the genus Canis (canines), which forms part of the wolf-like canids,&#91;6&#93; and is the most widely abundant terrestrial carnivore.&#91;7&#93;&#91;8&#93;&#91;9&#93;&#91;10&#93;&#91;11&#93; The dog and the extant gray wolf are sister taxa&#91;12&#93;&#91;13&#93;&#91;14&#93; as modern wolves are not closely related to the wolves that were first domesticated,&#91;13&#93;&#91;14&#93; which implies that the direct ancestor of the dog is extinct.&#91;15&#93; The dog was the first species to be domesticated,&#91;14&#93;&#91;16&#93; and has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes.&#91;17&#93;
+Their long association with humans has led dogs to be uniquely attuned to human behavior&#91;18&#93; and they are able to thrive on a starch-rich diet that would be inadequate for other canid species.&#91;19&#93; Dogs vary widely in shape, size and colors.&#91;20&#93; They perform many roles for humans, such as hunting, herding, pulling loads, protection, assisting police and military, companionship and, more recently, aiding disabled people and therapeutic roles. This influence on human society has given them the sobriquet of "man's best friend".
+
+Contents
+
+1 Terminology
+2 Taxonomy
+3 Origin
+4 Biology
+
+4.1 Anatomy
+
+4.1.1 Size and weight
+4.1.2 Senses
+4.1.3 Coat
+4.1.4 Tail
+4.1.5 Differences from wolves
+
+
+4.2 Health
+
+4.2.1 Lifespan
+
+
+4.3 Reproduction
+
+4.3.1 Neutering
+
+
+4.4 Inbreeding depression
+
+
+5 Intelligence, behavior, and communication
+
+5.1 Intelligence
+5.2 Behavior
+5.3 Communication
+
+
+6 Ecology
+
+6.1 Population
+6.2 Competitors and predators
+6.3 Diet
+6.4 Range
+
+
+7 Breeds
+8 Roles with humans
+
+8.1 Early roles
+8.2 As pets
+8.3 Work
+8.4 Sports and shows
+8.5 As food
+8.6 Health risks to humans
+8.7 Health benefits for humans
+8.8 Shelters
+
+
+9 Cultural depictions
+
+9.1 Mythology and religion
+9.2 Literature
+9.3 Art
+9.4 Education and appreciation
+
+
+10 See also
+
+10.1 Lists
+
+
+11 References
+12 Bibliography
+13 Further reading
+14 External links
+
+
+
+Terminology
+The term dog typically is applied both to the species (or subspecies) as a whole, and any adult male member of the same.
+An adult female is a bitch.
+An adult male capable of reproduction is a stud.
+An adult female capable of reproduction is a brood bitch, or brood mother.
+Immature males or females (that is, animals that are incapable of reproduction) are pups or puppies.
+A group of pups from the same gestation period is called a litter.
+The father of a litter is a sire. It is possible for one litter to have multiple sires.
+The mother of a litter is a dam.
+A group of any three or more adults is a pack.
+Taxonomy
+Further information: Canis lupus dingo §&#160;Taxonomic debate – dog, dingo, and New Guinea singing dog
+In 1758, the Swedish botanist and zoologist Carl Linnaeus published in his Systema Naturae the binomial nomenclature – or the two-word naming – of species. Canis is the Latin word meaning "dog",&#91;21&#93; and under this genus he listed the dog-like carnivores including domestic dogs, wolves, and jackals. He classified the domestic dog as Canis familiaris, and on the next page he classified the wolf as Canis lupus.&#91;3&#93; Linnaeus considered the dog to be a separate species from the wolf because of its cauda recurvata - its upturning tail which is not found in any other canid.&#91;22&#93;
+In 1999, a study of mitochondrial DNA indicated that the domestic dog may have originated from multiple grey wolf populations, with the dingo and New Guinea singing dog "breeds" having developed at a time when human populations were more isolated from each other.&#91;23&#93; In the third edition of Mammal Species of the World published in 2005, the mammalogist W. Christopher Wozencraft listed under the wolf Canis lupus its wild subspecies, and proposed two additional subspecies: "familiaris Linneaus, 1758 [domestic dog]" and "dingo Meyer, 1793 [domestic dog]". Wozencraft included hallstromi – the New Guinea singing dog – as a taxonomic synonym for the dingo. Wozencraft referred to the mDNA study as one of the guides in forming his decision.&#91;1&#93; The inclusion of familiaris and dingo under a "domestic dog" clade has been noted by other mammalogists.&#91;24&#93; This classification by Wozencraft is debated among zoologists.&#91;25&#93;
+
+Origin
+Main article: Origin of the domestic dog
+The origin of the domestic dog includes the dog's evolutionary divergence from the wolf, its domestication, and its development into dog types and dog breeds. The dog is a member of the genus Canis, which forms part of the wolf-like canids, and was the first species and the only large carnivore to have been domesticated.&#91;14&#93;&#91;26&#93; The dog and the extant gray wolf are sister taxa, as modern wolves are not closely related to the population of wolves that was first domesticated.&#91;14&#93;
+The genetic divergence between dogs and wolves occurred between 40,000–20,000 years ago, just before or during the Last Glacial Maximum.&#91;27&#93;&#91;2&#93; This timespan represents the upper time-limit for the commencement of domestication because it is the time of divergence and not the time of domestication, which occurred later.&#91;27&#93;&#91;28&#93; The domestication of animals commenced over 15,000 years ago, beginning with the grey wolf (Canis lupus) by nomadic hunter-gatherers.&#91;27&#93; The archaeological record and genetic analysis show the remains of the Bonn–Oberkassel dog buried beside humans 14,200 years ago to be the first undisputed dog, with disputed remains occurring 36,000 years ago.&#91;2&#93; It was not until 11,000 years ago that people living in the Near East entered into relationships with wild populations of aurochs, boar, sheep, and goats.&#91;27&#93;
+Where the domestication of the dog took place remains debated, with the most plausible proposals spanning Western Europe,&#91;9&#93;&#91;28&#93; Central Asia&#91;28&#93;&#91;29&#93; and East Asia.&#91;28&#93;&#91;30&#93; This has been made more complicated by the recent proposal that an initial wolf population split into East and West Eurasian groups. These two groups, before going extinct, were domesticated independently into two distinct dog populations between 14,000 and 6,400 years ago. The Western Eurasian dog population was gradually and partially replaced by East Asian dogs introduced by humans at least 6,400 years ago.&#91;28&#93;&#91;2&#93; This proposal is also debated.&#91;2&#93;
+
+Biology
+  Lateral view of skeleton
+Anatomy
+Main article: Dog anatomy
+  Skull of a dog
+Domestic dogs have been selectively bred for millennia for various behaviors, sensory capabilities, and physical attributes.&#91;17&#93; Modern dog breeds show more variation in size, appearance, and behavior than any other domestic animal.&#91;17&#93; Dogs are predators and scavengers, and like many other predatory mammals, the dog has powerful muscles, fused wrist bones, a cardiovascular system that supports both sprinting and endurance, and teeth for catching and tearing.
+
+Size and weight
+Dogs are highly variable in height and weight. The smallest known adult dog was a Yorkshire Terrier, that stood only 6.3&#160;cm (2.5&#160;in) at the shoulder, 9.5&#160;cm (3.7&#160;in) in length along the head-and-body, and weighed only 113 grams (4.0&#160;oz). The largest known dog was an English Mastiff which weighed 155.6&#160;kg (343&#160;lb) and was 250&#160;cm (98&#160;in) from the snout to the tail.&#91;31&#93; The tallest dog is a Great Dane that stands 106.7&#160;cm (42.0&#160;in) at the shoulder.&#91;32&#93;
+
+Senses
+Further information: Dog anatomy §&#160;Senses
+The dog's senses include vision, hearing, sense of smell, sense of taste, touch and sensitivity to the earth's magnetic field. Another study suggested that dogs can see the earth's magnetic field.&#91;33&#93;&#91;34&#93;&#91;35&#93;
+
+Coat
+Main article: Coat (dog)
+  Dogs display a wide variation on coat type, density, length, color, and composition
+The coats of domestic dogs are of two varieties: "double" being common with dogs (as well as wolves) originating from colder climates, made up of a coarse guard hair and a soft down hair, or "single", with the topcoat only. Breeds may have an occasional "blaze", stripe, or "star" of white fur on their chest or underside.&#91;36&#93;
+Regarding coat appearance or health, the coat can be maintained or affected by multiple nutrients present in the diet, see Coat (dog) for more information.
+Premature graying can occur in dogs from as early as one year of age. This has been shown to be associated with impulsive behaviors, anxiety behaviors, fear of noise, and fear of unfamiliar people or animals.&#91;37&#93;
+
+Tail
+See also: Docking
+There are many different shapes for dog tails: straight, straight up, sickle, curled, or cork-screw. As with many canids, one of the primary functions of a dog's tail is to communicate their emotional state, which can be important in getting along with others. In some hunting dogs, however, the tail is traditionally docked to avoid injuries.&#91;38&#93; In some breeds, such as the Braque du Bourbonnais, puppies can be born with a short tail or no tail at all.&#91;39&#93;
+
+Differences from wolves
+  The Saarloos wolfdog carries more gray wolf DNA than any other dog breed&#91;40&#93;
+Despite their close genetic relationship and the ability to inter-breed, there are a number of diagnostic features to distinguish the gray wolves from domestic dogs. Domesticated dogs are clearly distinguishable from wolves by starch gel electrophoresis of red blood cell acid phosphatase.&#91;41&#93; The tympanic bullae are large, convex and almost spherical in gray wolves, while the bullae of dogs are smaller, compressed and slightly crumpled.&#91;42&#93; Compared with equally sized wolves, dogs tend to have 20% smaller skulls and 30% smaller brains.&#91;43&#93;:35 The teeth of gray wolves are also proportionately larger than those of dogs.&#91;44&#93; Dogs have a more domed forehead and a distinctive "stop" between forehead and nose.&#91;45&#93; The temporalis muscle that closes the jaws is more robust in wolves.&#91;5&#93;:p158 Wolves do not have dewclaws on their back legs, unless there has been admixture with dogs that had them.&#91;46&#93;  Most dogs lack a functioning pre-caudal gland and enter estrus twice yearly, unlike gray wolves which only do so once a year.&#91;47&#93; So-called primitive dogs such as dingoes and Basenjis retain the yearly estrus cycle.&#91;48&#93;
+Dogs generally have brown eyes and wolves almost always have amber or light colored eyes.&#91;49&#93; The skin of domestic dogs tends to be thicker than that of wolves, with some Inuit tribes favoring the former for use as clothing due to its greater resistance to wear and tear in harsh weather.&#91;50&#93; The paws of a dog are half the size of those of a wolf, and their tails tend to curl upwards, another trait not found in wolves.&#91;51&#93; The dog has developed into hundreds of varied breeds, and shows more behavioral and morphological variation than any other land mammal.&#91;52&#93;
+
+Health
+Main article: Dog health
+There are many household plants that are poisonous to dogs (and other mammals) including begonia, Poinsettia and aloe vera.&#91;53&#93;
+Some breeds of dogs are prone to certain genetic ailments such as elbow and hip dysplasia, blindness, deafness, pulmonic stenosis, cleft palate, and trick knees. Two serious medical conditions particularly affecting dogs are pyometra, affecting unspayed females of all types and ages, and gastric dilatation volvulus (bloat), which affects the larger breeds or deep-chested dogs. Both of these are acute conditions, and can kill rapidly. Dogs are also susceptible to parasites such as fleas, ticks, mites, hookworms, tapeworms, roundworms, and heartworms (roundworm species that lives in the heart of dogs).
+A number of common human foods and household ingestibles are toxic to dogs, including chocolate solids (theobromine poisoning), onion and garlic (thiosulphate, sulfoxide or disulfide poisoning),&#91;54&#93; grapes and raisins, macadamia nuts, xylitol,&#91;55&#93; as well as various plants and other potentially ingested materials.&#91;56&#93;&#91;57&#93; The nicotine in tobacco can also be dangerous. Dogs can be exposed to the substance by scavenging through garbage bins or ashtrays and eating cigars and cigarettes. Signs can be vomiting of large amounts (e.g., from eating cigar butts) or diarrhea. Some other signs are abdominal pain, loss of coordination, collapse, or death.&#91;58&#93; Dogs are susceptible to theobromine poisoning, typically from ingestion of chocolate. Theobromine is toxic to dogs because, although the dog's metabolism is capable of breaking down the chemical, the process is so slow that for some dogs even small amounts of chocolate can be fatal, especially dark chocolate.
+Dogs are also vulnerable to some of the same health conditions as humans, including diabetes, dental and heart disease, epilepsy, cancer, hypothyroidism, and arthritis.&#91;59&#93;
+
+Lifespan
+Further information: Aging in dogs
+  Mixed-breed dogs such as this terrier have been found to run faster and live longer than their pure-bred parents (see Heterosis).
+In 2013, a study found that mixed breeds live on average 1.2 years longer than pure breeds, and that increasing body-weight was negatively correlated with longevity (i.e. the heavier the dog the shorter its lifespan).&#91;60&#93;
+The typical lifespan of dogs varies widely among breeds, but for most the median longevity, the age at which half the dogs in a population have died and half are still alive, ranges from 10 to 13 years.&#91;61&#93;&#91;62&#93;&#91;63&#93;&#91;64&#93; Individual dogs may live well beyond the median of their breed.
+The breed with the shortest lifespan (among breeds for which there is a questionnaire survey with a reasonable sample size) is the Dogue de Bordeaux, with a median longevity of about 5.2 years, but several breeds, including miniature bull terriers, bloodhounds, and Irish wolfhounds are nearly as short-lived, with median longevities of 6 to 7 years.&#91;64&#93;
+The longest-lived breeds, including toy poodles, Japanese spitz, Border terriers, and Tibetan spaniels, have median longevities of 14 to 15 years.&#91;64&#93; The median longevity of mixed-breed dogs, taken as an average of all sizes, is one or more years longer than that of purebred dogs when all breeds are averaged.&#91;62&#93;&#91;63&#93;&#91;64&#93;&#91;65&#93; The longest-lived dog was "Bluey", an Australian Cattle Dog who died in 1939 at 29.5 years of age.&#91;66&#93;&#91;67&#93;
+
+Reproduction
+Main article: Canine reproduction
+  Female dog nursing newborn puppies
+In domestic dogs, sexual maturity happens around six to twelve months of age for both males and females,&#91;17&#93;&#91;68&#93; although this can be delayed until up to two years old for some large breeds. This is the time at which female dogs will have their first estrous cycle. They will experience subsequent estrous cycles semiannually, during which the body prepares for pregnancy. At the peak of the cycle, females will come into estrus, being mentally and physically receptive to copulation.&#91;17&#93; Because the ova survive and are capable of being fertilized for a week after ovulation, it is possible for more than one male to sire the same litter.&#91;17&#93;
+Fertilization typically occurs 2–5 days after ovulation; 14–16 days after ovulation, the embryo attaches to the uterus, and after 7-8 more days the heart beat is detectable.&#91;69&#93;&#91;70&#93;
+Dogs bear their litters roughly 58 to 68 days after fertilization,&#91;17&#93;&#91;71&#93; with an average of 63 days, although the length of gestation can vary. An average litter consists of about six puppies,&#91;72&#93; though this number may vary widely based on the breed of dog. In general, toy dogs produce from one to four puppies in each litter, while much larger breeds may average as many as twelve.
+Some dog breeds have acquired traits through selective breeding that interfere with reproduction. Male French Bulldogs, for instance, are incapable of mounting the female. For many dogs of this breed, the female must be artificially inseminated in order to reproduce.&#91;73&#93;
+
+Neutering
+  A feral dog from Sri Lanka nursing very well-developed puppies
+Neutering refers to the sterilization of animals, usually by removal of the male's testicles or the female's ovaries and uterus, in order to eliminate the ability to procreate and reduce sex drive. Because of the overpopulation of dogs in some countries, many animal control agencies, such as the American Society for the Prevention of Cruelty to Animals (ASPCA), advise that dogs not intended for further breeding should be neutered, so that they do not have undesired puppies that may later be euthanized.&#91;74&#93;
+According to the Humane Society of the United States, 3–4&#160;million dogs and cats are euthanized each year in the United States and many more are confined to cages in shelters because there are many more animals than there are homes. Spaying or castrating dogs helps keep overpopulation down.&#91;75&#93; Local humane societies, SPCAs, and other animal protection organizations urge people to neuter their pets and to adopt animals from shelters instead of purchasing them.
+Neutering reduces problems caused by hypersexuality, especially in male dogs.&#91;76&#93; Spayed female dogs are less likely to develop some forms of cancer, affecting mammary glands, ovaries, and other reproductive organs.&#91;77&#93; However, neutering increases the risk of urinary incontinence in female dogs,&#91;78&#93; and prostate cancer in males,&#91;79&#93; as well as osteosarcoma, hemangiosarcoma, cruciate ligament rupture, obesity, and diabetes mellitus in either sex.&#91;80&#93;
+
+Inbreeding depression
+A common breeding practice for pet dogs is mating between close relatives (e.g. between half- and full siblings).&#91;81&#93; Inbreeding depression is considered to be due largely to the expression of homozygous deleterious recessive mutations.&#91;82&#93; Outcrossing between unrelated individuals, including dogs of different breeds, results in the beneficial masking of deleterious recessive mutations in progeny.&#91;83&#93;
+In a study of seven breeds of dogs (Bernese mountain dog, basset hound, Cairn terrier, Epagneul Breton, German Shepherd dog, Leonberger, and West Highland white terrier) it was found that inbreeding decreases litter size and survival.&#91;84&#93; Another analysis of data on 42,855 dachshund litters found that as the inbreeding coefficient increased, litter size decreased and the percentage of stillborn puppies increased, thus indicating inbreeding depression.&#91;85&#93; In a study of boxer litters, 22% of puppies died before reaching 7 weeks of age.&#91;86&#93; Stillbirth was the most frequent cause of death, followed by infection. Mortality due to infection increased significantly with increases in inbreeding.&#91;86&#93;
+
+Intelligence, behavior, and communication
+Intelligence
+Main article: Dog intelligence
+Dog intelligence is the ability of the dog to perceive information and retain it as knowledge for applying to solve problems. Dogs have been shown to learn by inference. A study with Rico showed that he knew the labels of over 200 different items. He inferred the names of novel items by exclusion learning and correctly retrieved those novel items immediately and also 4 weeks after the initial exposure. Dogs have advanced memory skills. A study documented the learning and memory capabilities of a border collie, "Chaser", who had learned the names and could associate by verbal command over 1,000 words&#91;87&#93;. Dogs are able to read and react appropriately to human body language such as gesturing and pointing, and to understand human voice commands, although a 2018 study on canine cognitive abilities found that dogs' capabilities are not more exceptional than those of other animals, such as horses, chimpanzees or cats.&#91;88&#93;
+Dogs demonstrate a theory of mind by engaging in deception.&#91;89&#93; An experimental study showed compelling evidence that Australian dingos can outperform domestic dogs in non-social problem-solving, indicating that domestic dogs may have lost much of their original problem-solving abilities once they joined humans.&#91;90&#93; Another study indicated that after undergoing training to solve a simple manipulation task, dogs that are faced with an insoluble version of the same problem look at the human, while socialized wolves do not.&#91;91&#93; 
+
+Behavior
+Main article: Dog behavior
+See also: Dog behavior §&#160;Behavior compared with other canids
+Dog behavior is the internally coordinated responses (actions or inactions) of the domestic dog (individuals or groups) to internal and/or external stimuli.&#91;92&#93; As the oldest domesticated species, with estimates ranging from 9,000–30,000 years BCE, the minds of dogs inevitably have been shaped by millennia of contact with humans. As a result of this physical and social evolution, dogs, more than any other species, have acquired the ability to understand and communicate with humans, and they are uniquely attuned to human behaviors.&#91;18&#93; Behavioral scientists have uncovered a surprising set of social-cognitive abilities in the domestic dog. These abilities are not possessed by the dog's closest canine
+relatives nor by other highly intelligent mammals such as great apes but rather parallel some of the social-cognitive skills of human children.&#91;93&#93;
+Unlike other domestic species which were primarily selected for production-related traits, dogs were initially selected for their behaviors.&#91;94&#93;&#91;95&#93; In 2016, a study found that there were only 11 fixed genes that showed variation between wolves and dogs. These gene variations were unlikely to have been the result of natural evolution, and indicate selection on both morphology and behavior during dog domestication. These genes have been shown to affect the catecholamine synthesis pathway, with the majority of the genes affecting the fight-or-flight response&#91;95&#93;&#91;96&#93; (i.e. selection for tameness), and emotional processing.&#91;95&#93; Dogs generally show reduced fear and aggression compared with wolves.&#91;95&#93;&#91;97&#93; Some of these genes have been associated with aggression in some dog breeds, indicating their importance in both the initial domestication and then later in breed formation.&#91;95&#93; Traits of high sociability and lack of fear in dogs may include genetic modifications related to Williams-Beuren syndrome in humans, which cause hypersociability at the expense of problem solving ability.&#91;98&#93;&#91;99&#93;&#91;100&#93;
+
+Communication
+Main article: Dog communication
+Dog communication is how dogs convey information to other dogs, how they understand messages from humans, and how humans translate the information that dogs are transmitting.&#91;101&#93;:xii Communication behaviors of dogs include eye gaze, facial expression, vocalization, body posture (including movements of bodies and limbs) and gustatory communication (scents, pheromones and taste). Humans communicate to dogs by using vocalization, hand signals and body posture.
+
+Ecology
+Population
+In 2013, an estimate of the global dog population was 987 million.&#91;102&#93; Although it is said that the "dog is man's best friend",&#91;103&#93; this refers largely to the ~20% of dogs that live in developed countries. In the developing world, dogs are more commonly feral or communally owned, with pet dogs uncommon.&#91;50&#93; Most of these dogs live their lives as scavengers and have never been owned by humans, with one study showing their most common response when approached by strangers is to run away (52%) or respond aggressively (11%).&#91;104&#93; Little is known about these dogs, or the dogs in developed countries that are feral, stray or are in shelters, because the great majority of modern research on dog cognition has focused on pet dogs living in human homes.&#91;105&#93;
+
+Competitors and predators
+Although dogs are the most abundant and widely distributed terrestrial carnivores, the potential of feral and free-ranging dogs to compete with other large carnivores is limited by their strong association with humans.&#91;7&#93; For example, a review of the studies in the competitive effects of dogs on sympatric carnivores did not mention any research on competition between dogs and wolves.&#91;106&#93;&#91;107&#93; Although wolves are known to kill dogs, they tend to live in pairs or in small packs in areas where they are highly persecuted, giving them a disadvantage facing large dog groups.&#91;106&#93;&#91;108&#93;
+Wolves kill dogs wherever they are found together.&#91;109&#93; One study reported that in Wisconsin in 1999 more compensation had been paid for losses due to wolves taking dogs than for wolves taking livestock. In Wisconsin wolves will often kill hunting dogs, possibly because the dogs are in the wolf's territory.&#91;109&#93; A strategy has been reported in Russia where one wolf lures a dog into heavy brush where another wolf waits in ambush.&#91;110&#93; In some instances, wolves have displayed an uncharacteristic fearlessness of humans and buildings when attacking dogs, to the extent that they have to be beaten off or killed.&#91;111&#93; Although the numbers of dogs killed each year are relatively low, it induces a fear of wolves entering villages and farmyards to take dogs, and losses of dogs to wolves has led to demands for more liberal wolf hunting regulations.&#91;106&#93;
+Coyotes and big cats have also been known to attack dogs. Leopards in particular are known to have a predilection for dogs, and have been recorded to kill and consume them regardless of their size.&#91;112&#93; Tigers in Manchuria, Indochina, Indonesia, and Malaysia are also reported to kill dogs.&#91;113&#93; Striped hyenas are known to kill dogs in Turkmenistan, India, and the Caucasus.&#91;114&#93;
+
+Diet
+See also: Dog food
+  Golden Retriever gnawing on a pig's foot
+Dogs have been described as carnivores&#91;115&#93;&#91;116&#93; or omnivores.&#91;17&#93;&#91;117&#93;&#91;118&#93;&#91;119&#93; Compared to wolves, dogs have genes involved in starch digestion that contribute to an increased ability to thrive on a starch-rich diet.&#91;19&#93; Based on metabolism and nutrition, many consider the dog to be an omnivore. However, the dog is not simply an omnivore. More like the cat and less like other omnivores, the dog can only produce bile acid with taurine, and it cannot produce vitamin D, which it obtains from animal flesh. Also more like the cat, the dog requires arginine to maintain its nitrogen balance. These nutritional requirements place the dog part-way between carnivores and omnivores.&#91;120&#93;
+
+Range
+As a domesticated or semi-domesticated animal, the dog is nearly universal among human societies. Notable exceptions once included:
+
+Aboriginal Tasmanians, who were separated from Australia before the arrival of dingos on that continent
+The Andamanese, who were isolated when rising sea levels covered the land bridge to Myanmar
+The Fuegians, who instead domesticated the Fuegian dog, a different canid species
+Certain Pacific islands whose maritime settlers did not bring dogs, or where dogs died out after original settlement, notably: the Mariana Islands,&#91;121&#93; Palau,&#91;122&#93; Marshall Islands,&#91;123&#93; Gilbert Islands,&#91;123&#93; New Caledonia,&#91;124&#93; Vanuatu,&#91;124&#93;&#91;125&#93; Tonga,&#91;125&#93; Marquesas,&#91;125&#93; Mangaia in the Cook Islands, Rapa Iti in French Polynesia, Easter Island,&#91;125&#93; Chatham Islands,&#91;126&#93; and Pitcairn Island (settled by the Bounty mutineers, who killed off their dogs in order to escape discovery by passing ships&#91;127&#93;).
+Dogs were introduced to Antarctica as sled dogs, and some became nearly feral. Dogs became apex predators in Antarctica by killing  prey (largely penguins) and posing a risk of spreading contagious diseases to seals before dogs were outlawed in Antarctica in accordance with an international agreement. &#91;128&#93;
+
+Breeds
+Main article: Dog breed
+  Different dog breeds show a range of phenotypic variation
+The domestic dog is the first species, and the only large carnivore, known to have been domesticated. Especially over the past 200 years, dogs have undergone rapid phenotypic change and were formed into today's modern dog breeds due to artificial selection by humans. These breeds can vary in size and weight from a 0.46&#160;kg (1.0&#160;lb) teacup poodle to a 90&#160;kg (200&#160;lb) giant mastiff. Phenotypic variation can include height measured to the withers ranging from 15.2 centimetres (6.0&#160;in) in the Chihuahua to 76&#160;cm (30&#160;in) in the Irish Wolfhound; color varies from white through grays (usually called "blue") to black, and browns from light (tan) to dark ("red" or "chocolate") in a wide variation of patterns; coats can be short or long, coarse-haired to wool-like, straight, curly, or smooth.&#91;129&#93; The skull, body, and limb proportions vary significantly between breeds, with dogs displaying more phenotypic diversity than can be found within the entire order of carnivores. Some breeds demonstrate outstanding skills in herding, retrieving, scent detection, and guarding, which demonstrates the functional and behavioral diversity of dogs. The first dogs were domesticated from shared ancestors of modern wolves, however the phenotypic changes that coincided with the dog–wolf genetic divergence are not known.&#91;26&#93;
+
+Further information: Dog type
+Roles with humans
+  Gunnar Kaasen and Balto, the lead dog on the last relay team of the 1925 serum run to Nome
+Domestic dogs inherited complex behaviors, such as bite inhibition, from their wolf ancestors, which would have been pack hunters with complex body language. These sophisticated forms of social cognition and communication may account for their trainability, playfulness, and ability to fit into human households and social situations, and these attributes have given dogs a relationship with humans that has enabled them to become one of the most successful species on the planet today.&#91;130&#93;:pages95-136
+The dogs' value to early human hunter-gatherers led to them quickly becoming ubiquitous across world cultures. Dogs perform many roles for people, such as hunting, herding, pulling loads, protection, assisting police and military, companionship, and, more recently, aiding handicapped individuals. This influence on human society has given them the nickname "man's best friend" in the Western world. In some cultures, however, dogs are also a source of meat.&#91;131&#93;&#91;132&#93;
+
+Early roles
+Wolves, and their dog descendants, likely derived significant benefits from living in human camps&#160;– more safety, more reliable food, lesser caloric needs, and more chance to breed.&#91;133&#93; They would have benefited from humans' upright gait that gives them larger range over which to see potential predators and prey, as well as better color vision that, at least by day, gives humans better visual discrimination.&#91;133&#93; Camp dogs would also have benefited from human tool use, as in bringing down larger prey and controlling fire for a range of purposes.&#91;133&#93;
+Humans would also have derived enormous benefit from the dogs associated with their camps.&#91;134&#93; For instance, dogs would have improved sanitation by cleaning up food scraps.&#91;134&#93; Dogs may have provided warmth, as referred to in the Australian Aboriginal expression "three dog night" (an exceptionally cold night), and they would have alerted the camp to the presence of predators or strangers, using their acute hearing to provide an early warning.&#91;134&#93;
+It has been suggested that the most significant benefit would have been the use of dogs' robust sense of smell to assist with the hunt.&#91;134&#93; The relationship between the presence of a dog and success in the hunt is often mentioned as a primary reason for the domestication of the wolf, and a 2004 study of hunter groups with and without a dog gives quantitative support to the hypothesis that the benefits of cooperative hunting was an important factor in wolf domestication.&#91;135&#93;
+The cohabitation of dogs and humans likely improved the chances of survival for early human groups, and the domestication of dogs may have been one of the key forces that led to human success.&#91;136&#93;
+Human emigrants from Siberia that came across the Bering land bridge into North America likely had dogs in their company. Although one writer&#91;137&#93; even suggests that the use of sled dogs may have been critical to the success of the waves that entered North America roughly 12,000 years ago,&#91;137&#93; the earliest archaeological evidence of dog-like canids in North America dates from about 9,400 years ago.&#91;130&#93;:104&#91;138&#93; Dogs were an important part of life for the Athabascan population in North America, and were their only domesticated animal. Dogs as pack animals  may have contributed to the migration of the Apache and Navajo tribes 1,400 years ago. This use of dogs in these cultures often persisted after the introduction of the horse to North America.&#91;139&#93;
+
+As pets
+  Green velvet dog collar, dating from 1670 to 1690
+  Siberian Huskies are pack animals that still enjoy some human companionship
+  A British Bulldog relaxes at a park
+It is estimated that three-quarters of the world's dog population lives in the developing world as feral, village, or community dogs, with pet dogs uncommon.&#91;50&#93;
+"The most widespread form of interspecies bonding occurs between humans and dogs"&#91;134&#93; and the keeping of dogs as companions, particularly by elites, has a long history.&#91;140&#93; (As a possible example, at the Natufian culture site of Ain Mallaha in Israel, dated to 12,000 BC, the remains of an elderly human and a four-to-five-month-old puppy were found buried together).&#91;22&#93; However, pet dog populations grew significantly after World War II as suburbanization increased.&#91;140&#93; In the 1950s and 1960s, dogs were kept outside more often than they tend to be today&#91;141&#93; (using the expression "in the doghouse" to describe exclusion from the group signifies the distance between the doghouse and the home) and were still primarily functional, acting as a guard, children's playmate, or walking companion. From the 1980s, there have been changes in the role of the pet dog, such as the increased role of dogs in the emotional support of their human guardians.&#91;142&#93; People and dogs have become increasingly integrated and implicated in each other's lives,&#91;143&#93; to the point where pet dogs actively shape the way a family and home are experienced.&#91;144&#93;
+There have been two major trends in the changing status of pet dogs. The first has been the 'commodification' of the dog, shaping it to conform to human expectations of personality and behaviour.&#91;144&#93; The second has been the broadening of the concept of the family and the home to include dogs-as-dogs within everyday routines and practices.&#91;144&#93;
+There are a vast range of commodity forms available to transform a pet dog into an ideal companion.&#91;145&#93; The list of goods, services and places available is enormous: from dog perfumes, couture, furniture and housing, to dog groomers, therapists, trainers and caretakers, dog cafes, spas, parks and beaches, and dog hotels, airlines and cemeteries.&#91;145&#93; While dog training as an organized activity can be traced back to the 18th century, in the last decades of the 20th century it became a high-profile issue as many normal dog behaviors such as barking, jumping up, digging, rolling in dung, fighting, and urine marking (which dogs do to establish territory through scent), became increasingly incompatible with the new role of a pet dog.&#91;146&#93; Dog training books, classes and television programs proliferated as the process of commodifying the pet dog continued.&#91;147&#93;
+The majority of contemporary dog owners describe their pet as part of the family,&#91;144&#93; although some ambivalence about the relationship is evident in the popular reconceptualization of the dog–human family as a pack.&#91;144&#93; A dominance model of dog–human relationships has been promoted by some dog trainers, such as on the television program Dog Whisperer. However it has been disputed that "trying to achieve status" is characteristic of dog–human interactions.&#91;148&#93; Pet dogs play an active role in family life; for example, a study of conversations in dog–human families showed how family members use the dog as a resource, talking to the dog, or talking through the dog, to mediate their interactions with each other.&#91;149&#93;
+Increasingly, human family members are engaging in activities centered on the perceived needs and interests of the dog, or in which the dog is an integral partner, such as dog dancing and dog yoga.&#91;145&#93;
+According to statistics published by the American Pet Products Manufacturers Association in the National Pet Owner Survey in 2009–2010, it is estimated there are 77.5&#160;million people with pet dogs in the United States.&#91;150&#93; The same survey shows nearly 40% of American households own at least one dog, of which 67% own just one dog, 25% two dogs and nearly 9% more than two dogs. There does not seem to be any gender preference among dogs as pets, as the statistical data reveal an equal number of female and male dog pets. Yet, although several programs are ongoing to promote pet adoption, less than a fifth of the owned dogs come from a shelter.
+The latest study using magnetic resonance imaging (MRI) comparing humans and dogs showed that dogs have the same response to voices and use the same parts of the brain as humans do. This gives dogs the ability to recognize emotional human sounds, making them friendly social pets to humans.&#91;151&#93;
+
+Work
+Dogs have lived and worked with humans in many roles. In addition to dogs' role as companion animals, dogs have been bred for herding livestock (collies, sheepdogs),&#91;152&#93;&#91;17&#93;  hunting (hounds, pointers),&#91;43&#93; and rodent control (terriers).&#91;17&#93; Other types of working dogs include search and rescue dogs,&#91;153&#93; detection dogs trained to detect illicit drugs&#91;154&#93; or chemical weapons;&#91;155&#93; guard dogs; dogs who assist fishermen with the use of nets; and dogs that pull loads.&#91;17&#93; In 1957, the dog Laika became the first animal to be launched into Earth orbit, aboard the Soviets' Sputnik 2; she died during the flight.&#91;156&#93;&#91;157&#93;
+Various kinds of service dogs and assistance dogs, including guide dogs, hearing dogs, mobility assistance dogs, and psychiatric service dogs provide assistance to individuals with disabilities.&#91;158&#93;&#91;159&#93; Some dogs owned by epileptics have been shown to alert their handler when the handler shows signs of an impending seizure, sometimes well in advance of onset, allowing the guardian to seek safety, medication, or medical care.&#91;160&#93;
+
+Sports and shows
+See also: Conformation show
+People often enter their dogs in competitions&#91;161&#93; such as breed-conformation shows or sports, including racing, sledding and agility competitions.
+In conformation shows, also referred to as breed shows, a judge familiar with the specific dog breed evaluates individual purebred dogs for conformity with their established breed type as described in the breed standard. As the breed standard only deals with the externally observable qualities of the dog (such as appearance, movement, and temperament), separately tested qualities (such as ability or health) are not part of the judging in conformation shows.
+
+As food
+Main article: Dog meat  vte Worldwide laws on killing dogs for consumption          &#160;&#160; Dog killing is not illegal &#160;&#160; Dog killing is partially illegal1 &#160;&#160; Dog killing is illegal &#160;&#160; Unknown          1the laws vary internally and/or they include exceptions for ritual/religious slaughter 
+Dog meat is consumed in some East Asian countries, including Korea, China&#91;131&#93; and Vietnam,&#91;132&#93; a practice that dates back to antiquity.&#91;162&#93; It is estimated that 13–16&#160;million dogs are killed and consumed in Asia every year.&#91;163&#93; In China, debates have ensued over banning the consumption of dog meat.&#91;164&#93;  Following the Sui and Tang dynasties of the first millennium, however, people living on the plains of northern China began to eschew eating dogs. This is likely due to the spread of Buddhism and Islam, two religions that forbade the consumption of certain animals, including dogs. As members of the upper classes shunned dog meat, it gradually became a social taboo to eat it, despite the fact that the general population continued to consume it for centuries afterward.&#91;165&#93; Other cultures, such as Polynesia and pre-Columbian Mexico, also consumed dog meat in their history. However, Western, South Asian, African, and Middle Eastern cultures, in general, regard consumption of dog meat as taboo. In some places, however, such as in rural areas of Poland, dog fat is believed to have medicinal properties&#160;– being good for the lungs for instance.&#91;166&#93; Dog meat is also consumed in some parts of Switzerland.&#91;167&#93;  Proponents of eating dog meat have argued that placing a distinction between livestock and dogs is western hypocrisy, and that there is no difference with eating the meat of different animals.&#91;168&#93;&#91;169&#93;&#91;170&#93;&#91;171&#93;
+In Korea, the primary dog breed raised for meat, the nureongi (누렁이), differs from those breeds raised for pets that Koreans may keep in their homes.&#91;172&#93;
+The most popular Korean dog dish is gaejang-guk (also called bosintang), a spicy stew meant to balance the body's heat during the summer months. Followers of the custom claim this is done to ensure good health by balancing one's gi, or vital energy of the body. A 19th century version of gaejang-guk explains that the dish is prepared by boiling dog meat with scallions and chili powder. Variations of the dish contain chicken and bamboo shoots. While the dishes are still popular in Korea with a segment of the population, dog is not as widely consumed as beef, chicken, and pork.&#91;172&#93;
+
+Health risks to humans
+Further information: Dog attack and Canine vector-borne disease
+Further information: Dog bite prevention
+In 2005, the WHO reported that 55,000 people died in Asia and Africa from rabies, a disease for which dogs are the most important vector.&#91;173&#93;
+Citing a 2008 study, the U.S. Center for Disease Control estimated in 2015 that 4.5 million people in the USA are bitten by dogs each year.&#91;174&#93; A 2015 study estimated that 1.8% of the U.S. population is bitten each year.&#91;175&#93; In the 1980s and 1990s the US averaged 17 fatalities per year, while since 2007 this has increased to an average of 31.&#91;176&#93; 77% of dog bites are from the pet of family or friends, and 50% of attacks occur on the property of the dog's legal owner.&#91;176&#93;
+A Colorado study found bites in children were less severe than bites in adults.&#91;177&#93; The incidence of dog bites in the US is 12.9 per 10,000 inhabitants, but for boys aged 5 to 9, the incidence rate is 60.7 per 10,000. Moreover, children have a much higher chance to be bitten in the face or neck.&#91;178&#93; Sharp claws with powerful muscles behind them can lacerate flesh in a scratch that can lead to serious infections.&#91;179&#93;
+In the UK between 2003 and 2004, there were 5,868 dog attacks on humans, resulting in 5,770 working days lost in sick leave.&#91;180&#93;
+In the United States, cats and dogs are a factor in more than 86,000 falls each year.&#91;181&#93; It has been estimated around 2% of dog-related injuries treated in UK hospitals are domestic accidents. The same study found that while dog involvement in road traffic accidents was difficult to quantify, dog-associated road accidents involving injury more commonly involved two-wheeled vehicles.&#91;182&#93;
+Toxocara canis (dog roundworm) eggs in dog feces can cause toxocariasis. In the United States, about 10,000 cases of Toxocara infection are reported in humans each year, and almost 14% of the U.S. population is infected.&#91;183&#93; In Great Britain, 24% of soil samples taken from public parks contained T. canis eggs.&#91;184&#93;&#91;failed verification&#93; Untreated toxocariasis can cause retinal damage and decreased vision.&#91;184&#93; Dog feces can also contain hookworms that cause cutaneous larva migrans in humans.&#91;185&#93;&#91;186&#93;&#91;187&#93;&#91;188&#93;
+
+Health benefits for humans
+  Doberman puppy being cuddled
+The scientific evidence is mixed as to whether companionship of a dog can enhance human physical health and psychological wellbeing.&#91;189&#93; Studies suggesting that there are benefits to physical health and psychological wellbeing&#91;190&#93; have been criticised for being poorly controlled,&#91;191&#93; and finding that "the health of elderly people is related to their health habits and social supports but not to their ownership of, or attachment to, a companion animal." Earlier studies have shown that people who keep pet dogs or cats exhibit better mental and physical health than those who do not, making fewer visits to the doctor and being less likely to be on medication than non-guardians.&#91;192&#93;
+A 2005 paper states "recent research has failed to support earlier findings that pet ownership is associated with a reduced risk of cardiovascular disease, a reduced use of general practitioner services, or any psychological or physical benefits on health for community dwelling older people. Research has, however, pointed to significantly less absenteeism from school through sickness among children who live with pets."&#91;189&#93; In one study, new guardians reported a highly significant reduction in minor health problems during the first month following pet acquisition, and this effect was sustained in those with dogs through to the end of the study.&#91;193&#93;
+In addition, people with pet dogs took considerably more physical exercise than those with cats and those without pets. The results provide evidence that keeping pets may have positive effects on human health and behaviour, and that for guardians of dogs these effects are relatively long-term.&#91;193&#93; Pet guardianship has also been associated with increased coronary artery disease survival, with human guardians being significantly less likely to die within one year of an acute myocardial infarction than those who did not own dogs.&#91;194&#93;
+The health benefits of dogs can result from contact with dogs in general, and not solely from having dogs as pets. For example, when in the presence of a pet dog, people show reductions in cardiovascular, behavioral, and psychological indicators of anxiety.&#91;195&#93; Other health benefits are gained from exposure to immune-stimulating microorganisms, which, according to the hygiene hypothesis, can protect against allergies and autoimmune diseases. The benefits of contact with a dog also include social support, as dogs are able to not only provide companionship and social support themselves, but also to act as facilitators of social interactions between humans.&#91;196&#93; One study indicated that wheelchair users experience more positive social interactions with strangers when they are accompanied by a dog than when they are not.&#91;197&#93; In 2015, a study found that pet owners were significantly more likely to get to know people in their neighborhood than non-pet owners.&#91;198&#93;
+The practice of using dogs and other animals as a part of therapy dates back to the late 18th century, when animals were introduced into mental institutions to help socialize patients with mental disorders.&#91;199&#93; Animal-assisted intervention research has shown that animal-assisted therapy with a dog can increase social behaviors, such as smiling and laughing, among people with Alzheimer's disease.&#91;200&#93; One study demonstrated that children with ADHD and conduct disorders who participated in an education program with dogs and other animals showed increased attendance, increased knowledge and skill objectives, and decreased antisocial and violent behavior compared with those who were not in an animal-assisted program.&#91;201&#93;
+
+Shelters
+Main article: Animal shelter
+Every year, between 6 and 8&#160;million dogs and cats enter US animal shelters.&#91;202&#93; The Humane Society of the United States (HSUS) estimates that approximately 3 to 4&#160;million of those dogs and cats are euthanized yearly in the United States.&#91;203&#93; However, the percentage of dogs in US animal shelters that are eventually adopted and removed from the shelters by their new legal owners has increased since the mid-1990s from around 25% to a 2012 average of 40% among reporting shelters&#91;204&#93; (with many shelters reporting 60–75%).&#91;205&#93;
+
+Cultural depictions
+  Dogs at Lake Balaton, depicted on the Seuso Treasure
+Main article: Cultural depictions of dogs
+In China, Korea, and Japan, dogs are viewed as kind protectors.&#91;206&#93;
+
+Mythology and religion
+In ancient Mesopotamia, from the Old Babylonian period until the Neo-Babylonian, dogs were the symbol of Ninisina, the goddess of healing and medicine,&#91;207&#93; and her worshippers frequently dedicated small models of seated dogs to her.&#91;207&#93; In the Neo-Assyrian and Neo-Babylonian periods, dogs were used as emblems of magical protection.&#91;207&#93;
+In mythology, dogs often serve as pets or as watchdogs.&#91;206&#93; Stories of dogs guarding the gates of the underworld recur throughout Indo-European mythologies&#91;208&#93;&#91;209&#93; and may originate from Proto-Indo-European religion.&#91;208&#93;&#91;209&#93; In Greek mythology, Cerberus is a three-headed watchdog who guards the gates of Hades.&#91;206&#93; In Norse mythology, a bloody, four-eyed dog called Garmr guards Helheim.&#91;206&#93; In Persian mythology, two four-eyed dogs guard the Chinvat Bridge.&#91;206&#93; In Welsh mythology, Annwn is guarded by Cŵn Annwn.&#91;206&#93; In Hindu mythology, Yama, the god of death, owns two watch dogs who have four eyes. They are said to watch over the gates of Naraka.&#91;210&#93;
+
+  A painting of Saint Dominic with a dog bearing a torch at his side
+The hunter god Muthappan from North Malabar region of Kerala has a hunting dog as his mount. Dogs are found in and out of the Muthappan Temple and offerings at the shrine take the form of bronze dog figurines.&#91;211&#93; In Philippine mythology, Kimat who is the pet of Tadaklan, god of thunder, is responsible for lightning.
+The role of the dog in Chinese mythology includes a position as one of the twelve animals which cyclically represent years (the zodiacal dog). Three of the 88 constellations in western astronomy also represent dogs: Canis Major (the Great Dog, whose brightest star, Sirius, is also called the Dog Star), Canis Minor (the Little Dog), and Canes Venatici (the Hunting Dogs).
+In Christianity, dogs represent faithfulness.&#91;206&#93; Within the Roman Catholic denomination specifically, the iconography of Saint Dominic includes a dog, after the hallow's mother dreamt of a dog springing from her womb and becoming pregnant shortly thereafter.&#91;212&#93; As such, the Dominican Order (Ecclesiastical Latin: Dominicanus) means "dogs of the Lord" or "hounds of the Lord" (Ecclesiastical Latin: domini canis).&#91;212&#93; In Christian folklore, a church grim often takes the form of a black dog to guard Christian churches and their churchyards from sacrilege.&#91;213&#93;
+Jewish law does not prohibit keeping dogs and other pets.&#91;214&#93; Jewish law requires Jews to feed dogs (and other animals that they own) before themselves, and make arrangements for feeding them before obtaining them.&#91;214&#93;
+The view on dogs in Islam is mixed, with some schools of thought viewing it as unclean,&#91;206&#93; although Khaled Abou El Fadl states that this view is based on "pre-Islamic Arab mythology" and "a tradition to be falsely attributed to the Prophet".&#91;215&#93; Therefore, Sunni Malaki and Hanafi jurists permit the trade of and keeping of dogs as pets.&#91;216&#93;
+
+Literature
+In Homer's epic poem the Odyssey, when the disguised Odysseus returns home after 20 years he is recognized only by his faithful dog, Argos, who has been waiting for his return.
+
+Art
+Main article: Cultural depictions of dogs in Western art
+
+
+
+Wikimedia Commons has media related to Dogs in art.
+
+Cultural depictions of dogs in art extend back thousands of years to when dogs were portrayed on the walls of caves. Representations of dogs became more elaborate as individual breeds evolved and the relationships between human and canine developed. Hunting scenes were popular in the Middle Ages and the Renaissance. Dogs were depicted to symbolize guidance, protection, loyalty, fidelity, faithfulness, watchfulness, and love.&#91;217&#93;
+
+Education and appreciation
+The American Kennel Club reopened a museum called "Museum of the Dog" in Manhattan after moving the attraction from outside of St. Louis.&#91;218&#93; The museum contains ancient artifacts, fine art, and educational opportunities for visitors.&#91;218&#93;.mw-parser-output .tmulti .thumbinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{text-align:left;background-color:transparent}.mw-parser-output .tmulti .thumbcaption-center{text-align:center;background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .thumbcaption{text-align:center}}Ancient Greek rhyton serving vessel in the shape of a dog's head, made by Brygos, early 5th century BC. Jérôme Carcopino Museum, Department of Archaeology, Aleria
+  Dog with mastiff features, China, 4th century, Brooklyn Museum
+
+See also
+
+
+Dogs portal
+Mammals portal
+
+
+
+
+Book: Dog
+
+
+
+Animal track
+Cynanthropy
+Dog–cat relationship
+Dog odor
+Dognapping
+Ethnocynology
+Hachikō – a notable example of dog loyalty
+Mountain dog
+Pet recovery service
+Toy Group
+Wolfdog
+
+Lists
+Lists of dogs
+List of fictional dogs
+List of individual dogs
+References
+
+
+^ a b Wozencraft, W.C. (2005). "Order Carnivora".  In Wilson, D.E.; Reeder, D.M (eds.). Mammal Species of the World: A Taxonomic and Geographic Reference (3rd ed.). Johns Hopkins University Press. pp.&#160;575–577. ISBN&#160;978-0-8018-8221-0. OCLC&#160;62265494..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em} url=https://books.google.com/books?id=JgAMbNSt8ikC&amp;pg=PA576
+
+^ a b c d e Thalmann, Olaf; Perri, Angela R. (2018). "Paleogenomic Inferences of Dog Domestication".  In Lindqvist, C.; Rajora, O. (eds.). Paleogenomics. Population Genomics. Springer, Cham. pp.&#160;273–306. doi:10.1007/13836_2018_27. ISBN&#160;978-3-030-04752-8.
+
+^ a b Linnæus, Carl (1758). Systema naturæ per regna tria naturæ, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I (in Latin) (10 ed.). Holmiæ (Stockholm): Laurentius Salvius. pp.&#160;38–40. Retrieved 11 February 2017.
+
+^ "Opinions and Declarations Rendered by the International Commission on Zoological Nomenclature – Opinion 91". Smithsonian Miscellaneous Collections. 73 (4). 1926.
+
+^ a b Wang, Xiaoming; Tedford, Richard H.; Dogs: Their Fossil Relatives and Evolutionary History. New York: Columbia University Press, 2008, page 1
+
+^ Lindblad-Toh, K.; Wade, C.M.; Mikkelsen, T.S.; Karlsson, E.K.; Jaffe, D.B.; Kamal, M.; Clamp, M.; Chang, J.L.; Kulbokas, E.J.; Zody, M.C.; Mauceli, E.; Xie, X.; Breen, M.; Wayne, R.K.; Ostrander, E.A.; Ponting, C.P.; Galibert, F.; Smith, D.R.; Dejong, P.J.; Kirkness, E.; Alvarez, P.; Biagi, T.; Brockman, W.; Butler, J.; Chin, C.W.; Cook, A.; Cuff, J.; Daly, M.J.; Decaprio, D.;  et al. (2005). "Genome sequence, comparative analysis and haplotype structure of the domestic dog". Nature. 438 (7069): 803–819. Bibcode:2005Natur.438..803L. doi:10.1038/nature04338. PMID&#160;16341006.
+
+^ a b Young, Julie K.; Olson, Kirk A.; Reading, Richard P.; Amgalanbaatar, Sukh; Berger, Joel (1 February 2011). "Is Wildlife Going to the Dogs? Impacts of Feral and Free-roaming Dogs on Wildlife Populations". BioScience. 61 (2): 125–132. Bibcode:1985BioSc..35..499W. doi:10.1525/bio.2011.61.2.7. ISSN&#160;0006-3568.
+
+^ Fan, Zhenxin; Silva, Pedro; Gronau, Ilan; Wang, Shuoguo; Armero, Aitor Serres; Schweizer, Rena M.; Ramirez, Oscar; Pollinger, John; Galaverni, Marco; Ortega Del-Vecchyo, Diego; Du, Lianming; Zhang, Wenping; Zhang, Zhihe; Xing, Jinchuan; Vilà, Carles; Marques-Bonet, Tomas; Godinho, Raquel; Yue, Bisong; Wayne, Robert K. (2016). "Worldwide patterns of genomic variation and admixture in gray wolves". Genome Research. 26 (2): 163–173. doi:10.1101/gr.197517.115. PMC&#160;4728369. PMID&#160;26680994.
+
+^ a b Thalmann, O.; Shapiro, B.; Cui, P.; Schuenemann, V.J.; Sawyer, S.K.; Greenfield, D.L.; Germonpre, M.B.; Sablin, M.V.; Lopez-Giraldez, F.; Domingo-Roura, X.; Napierala, H.; Uerpmann, H.-P.; Loponte, D.M.; Acosta, A.A.; Giemsch, L.; Schmitz, R.W.; Worthington, B.; Buikstra, J.E.; Druzhkova, A.; Graphodatsky, A.S.; Ovodov, N.D.; Wahlberg, N.; Freedman, A.H.; Schweizer, R.M.; Koepfli, K.- P.; Leonard, J.A.; Meyer, M.; Krause, J.; Paabo, S.;  et al. (2013). "Complete Mitochondrial Genomes of Ancient Canids Suggest a European Origin of Domestic Dogs". Science. 342 (6160): 871–874. Bibcode:2013Sci...342..871T. doi:10.1126/science.1243650. hdl:10261/88173. PMID&#160;24233726.
+
+^ Vila, C.; Amorim, I.R.; Leonard, J.A.; Posada, D.; Castroviejo, J.; Petrucci-Fonseca, F.; Crandall, K.A.; Ellegren, H.; Wayne, R.K. (1999). "Mitochondrial DNA phylogeography and population history of the grey wolf Canis lupus". Molecular Ecology. 8 (12): 2089–2103. doi:10.1046/j.1365-294x.1999.00825.x. hdl:10261/58565. PMID&#160;10632860.
+
+^ J., Daniels, Thomas; Marc, Bekoff (1989). "Population and Social Biology of Free-Ranging Dogs, Canis familiaris". Ecology.
+
+^ Vila, C. (1997). "Multiple and ancient origins of the domestic dog". Science. 276 (5319): 1687–1689. doi:10.1126/science.276.5319.1687. PMID&#160;9180076.
+
+^ a b Freedman, Adam H.; Gronau, Ilan; Schweizer, Rena M.; Ortega-Del Vecchyo, Diego; Han, Eunjung; Silva, Pedro M.; Galaverni, Marco; Fan, Zhenxin; Marx, Peter; Lorente-Galdos, Belen; Beale, Holly; Ramirez, Oscar; Hormozdiari, Farhad; Alkan, Can; Vilà, Carles; Squire, Kevin; Geffen, Eli; Kusak, Josip; Boyko, Adam R.; Parker, Heidi G.; Lee, Clarence; Tadigotla, Vasisht; Siepel, Adam; Bustamante, Carlos D.; Harkins, Timothy T.; Nelson, Stanley F.; Ostrander, Elaine A.; Marques-Bonet, Tomas; Wayne, Robert K.; Novembre, John (16 January 2014). "Genome Sequencing Highlights Genes Under Selection and the Dynamic Early History of Dogs". PLOS Genetics. 10 (1): e1004016. doi:10.1371/journal.pgen.1004016. PMC&#160;3894170. PMID&#160;24453982.
+
+^ a b c d e Larson G, Bradley DG (2014). "How Much Is That in Dog Years? The Advent of Canine Population Genomics". PLOS Genetics. 10 (1): e1004093. doi:10.1371/journal.pgen.1004093. PMC&#160;3894154. PMID&#160;24453989.
+
+^ vonHoldt, Bridgett M.; Driscoll, Carlos A. (2016). "3-Origins of the dog:Genetic insights into dog domestication".  In James Serpell (ed.). The Domestic Dog: Its Evolution, Behavior and Interactions with People (2 ed.). Cambridge University Press. pp.&#160;22–41. ISBN&#160;978-1-107-02414-4.
+
+^ Perri, Angela (2016). "A wolf in dog's clothing: Initial dog domestication and Pleistocene wolf variation". Journal of Archaeological Science. 68: 1–4. doi:10.1016/j.jas.2016.02.003.
+
+^ a b c d e f g h i j k Dewey, T. and S. Bhagat. 2002. "Canis lupus familiaris, Animal Diversity Web.
+
+^ a b Berns, G.S.; Brooks, A.M.; Spivak, M. (2012).  Neuhauss, Stephan C.F (ed.). "Functional MRI in Awake Unrestrained Dogs". PLoS ONE. 7 (5): e38027. Bibcode:2012PLoSO...738027B. doi:10.1371/journal.pone.0038027. PMC&#160;3350478. PMID&#160;22606363.
+
+^ a b Axelsson, E.; Ratnakumar, A.; Arendt, M.L.; Maqbool, K.; Webster, M.T.; Perloski, M.; Liberg, O.; Arnemo, J.M.; Hedhammar, Å.; Lindblad-Toh, K. (2013). "The genomic signature of dog domestication reveals adaptation to a starch-rich diet". Nature. 495 (7441): 360–364. Bibcode:2013Natur.495..360A. doi:10.1038/nature11837. PMID&#160;23354050.
+
+^ Why are different breeds of dogs all considered the same species? – Scientific American Archived 10 October 2016 at the Wayback Machine.  Nikhil Swaminathan. Accessed on 28 August 2016.
+
+^ Harper, Douglas. "canine". Online Etymology Dictionary.
+
+^ a b Clutton-Brock, Juliet (1995). "2-Origins of the dog".  In Serpell, James (ed.). The Domestic Dog: Its Evolution, Behaviour and Interactions with People. Cambridge University Press. pp.&#160;7–20. ISBN&#160;0521415292.
+
+^ Wayne, R. &amp; Ostrander, Elaine A. (1999). "Origin, genetic diversity, and genome structure of the domestic dog". BioEssays. 21 (3): 247–257. doi:10.1002/(SICI)1521-1878(199903)21:3&#60;247::AID-BIES9&#62;3.0.CO;2-Z. PMID&#160;10333734.CS1 maint: uses authors parameter (link)
+
+^ Jackson, Stephen M.; Groves, Colin P.; Fleming, Peter J.S.; Aplin, KEN P.; Eldridge, Mark D.B.; Gonzalez, Antonio; Helgen, Kristofer M. (2017). "The Wayward Dog: Is the Australian native dog or Dingo a distinct species?". Zootaxa. 4317 (2): 201. doi:10.11646/zootaxa.4317.2.1.
+
+^ Smith 2015, pp.&#160;xi–24 Chapter 1 – Bradley Smith
+
+^ a b Freedman, Adam H; Wayne, Robert K (2017). "Deciphering the Origin of Dogs: From Fossils to Genomes". Annual Review of Animal Biosciences. 5: 281–307. doi:10.1146/annurev-animal-022114-110937. PMID&#160;27912242.
+
+^ a b c d Irving-Pease, Evan K.; Ryan, Hannah; Jamieson, Alexandra; Dimopoulos, Evangelos A.; Larson, Greger; Frantz, Laurent A. F. (2018). "Paleogenomics of Animal Domestication".  In Lindqvist, C.; Rajora, O. (eds.). Paleogenomics. Population Genomics. Springer, Cham. pp.&#160;225–272. doi:10.1007/13836_2018_55. ISBN&#160;978-3-030-04752-8.
+
+^ a b c d e Machugh, David E.; Larson, Greger; Orlando, Ludovic (2016). "Taming the Past: Ancient DNA and the Study of Animal Domestication". Annual Review of Animal Biosciences. 5: 329–351. doi:10.1146/annurev-animal-022516-022747. PMID&#160;27813680.
+
+^ Shannon, L (2015). "Genetic structure in village dogs reveals a Central Asian domestication origin". Proceedings of the National Academy of Sciences. 112 (44): 13639–13644. Bibcode:2015PNAS..11213639S. doi:10.1073/pnas.1516215112. PMC&#160;4640804. PMID&#160;26483491.
+
+^ Wang, G (2015). "Out of southern East Asia: the natural history of domestic dogs across the world". Cell Research. 26 (1): 21–33. doi:10.1038/cr.2015.147. PMC&#160;4816135. PMID&#160;26667385.
+
+^ "World's Largest Dog". Retrieved 7 January 2008.
+
+^ "Guinness World Records – Tallest Dog Living". Guinness World Records. 31 August 2004. Archived from the original on 11 July 2011. Retrieved 7 January 2009.
+
+^ Nießner, Christine; Denzau, Susanne; Malkemper, Erich Pascal; Gross, Julia Christina; Burda, Hynek; Winklhofer, Michael; Peichl, Leo (2016). "Cryptochrome 1 in Retinal Cone Photoreceptors Suggests a Novel Functional Role in Mammals". Scientific Reports. 6: 21848. Bibcode:2016NatSR...621848N. doi:10.1038/srep21848. PMC&#160;4761878. PMID&#160;26898837.
+
+^ Magnetoreception molecule found in the eyes of dogs and primates Archived 23 December 2016 at the Wayback Machine MPI Brain Research, 22 February 2016
+
+^ "You searched for UNP 0066". Alabama Cooperative Extension System.
+
+^ Cunliffe, Juliette (2004). "Coat Types, Colours and Markings". The Encyclopedia of Dog Breeds. Paragon Publishing. pp.&#160;20–23. ISBN&#160;978-0-7525-8276-4.
+
+^ King, Camille; Smith, Thomas J.; Grandin, Temple; Borchelt, Peter (2016). "Anxiety and impulsivity: Factors associated with premature graying in young dogs". Applied Animal Behaviour Science. 185: 78–85. doi:10.1016/j.applanim.2016.09.013.
+
+^ "The Case for Tail Docking". Council of Docked Breeds. Archived from the original on 14 April 2009. Retrieved 22 October 2008.
+
+^ "Bourbonnais pointer or 'short tail pointer'". Braquedubourbonnais.info. Retrieved 19 December 2012.
+
+^ Skoglund, P. (2015). "Ancient wolf genome reveals an early divergence of domestic dog ancestors and admixture into high-latitude breeds". Current Biology. 25 (11): 1515–1519. doi:10.1016/j.cub.2015.04.019. PMID&#160;26004765.
+
+^ Elliot, D.G., and M. Wong. 1972. Acid phosphatase, handy enzyme that separates the dog from the wolf. Acta Biologica et Medica Germanica 28:957–962
+
+^ Mech, D.L. (1974). "Canis lupus" (PDF). Mammalian Species. 37 (37): 1–6. doi:10.2307/3503924. JSTOR&#160;3503924. Archived from the original (PDF) on 24 September 2015. Retrieved 4 June 2015.
+
+^ a b Serpell, James (1995). "Origins of the dog: domestication and early history". The Domestic Dog. Cambridge: Cambridge University Press. ISBN&#160;978-0-521-41529-3.
+
+^ Clutton-Brock, Juliet (1987). A Natural History of Domesticated Mammals. British Museum (Natural History), p. 24, ISBN&#160;0-521-34697-5
+
+^ Janssens, L; Spanoghe, I; Miller, R; Van Dongen, S (2016). "Can orbital angle morphology distinguish dogs from wolves?". Zoomorphology. 135: 149–158. doi:10.1007/s00435-015-0294-3. PMC&#160;4742516. PMID&#160;26893534.
+
+^ Rincon, Paul (8 April 2004), Claws reveal wolf survival threat, BBC News, retrieved 12 December 2014
+
+^ Boitani &amp; Mech 2003, p.&#160;257.
+
+^ ACT, Walter Threlfall DVM MS PhD. "Canine estrous cycle and ovulation (Proceedings)".
+
+^ "Wolf identification – Wisconsin DNR". dnr.wi.gov.
+
+^ a b c Coppinger, Ray (2001). Dogs: a Startling New Understanding of Canine Origin, Behavior and Evolution. New York: Scribner. ISBN&#160;978-0-684-85530-1.
+
+^ Lopez, Barry (1978). Of wolves and men. New York: Scribner Classics. p.&#160;320. ISBN&#160;978-0-7432-4936-2.
+
+^ Spady TC, Ostrander EA (January 2008). "Canine Behavioral Genetics: Pointing Out the Phenotypes and Herding up the Genes". American Journal of Human Genetics. 82 (1): 10–18. doi:10.1016/j.ajhg.2007.12.001. PMC&#160;2253978. PMID&#160;18179880.
+
+^ "Plants poisonous to dogs". Sunset.
+
+^ Sources vary on which of these are considered the most significant toxic item.
+
+^ Murphy, L.A.; Coleman, A.E. (2012). "Xylitol Toxicosis in Dogs". Veterinary Clinics of North America: Small Animal Practice. 42 (2): 307–312. doi:10.1016/j.cvsm.2011.12.003. PMID&#160;22381181.
+
+^ "Toxic Foods and Plants for Dogs". entirelypets.com. Retrieved 24 June 2010.
+
+^ Drs. Foster &amp; Smith. "Foods to Avoid Feeding Your Dog". peteducation.com. Archived from the original on 15 September 2014. Retrieved 24 June 2010.
+
+^ Fogle, Bruce (1974). Caring For Your Dog.
+
+^ Ward, Ernie. "Diseases shared by humans and pets". Dogtime.com. Retrieved 2 October 2010.
+
+^ O'Neill, D.G.; Church, D.B.; McGreevy, P.D.; Thomson, P.C.; Brodbelt, D.C. (2013). "Longevity and mortality of owned dogs in England" (PDF). The Veterinary Journal. 198 (3): 638–643. doi:10.1016/j.tvjl.2013.09.020. PMID&#160;24206631.
+
+^ 
+"Kennel Club/British Small Animal Veterinary Association Scientific Committee". 2004. Retrieved 5 July 2007.
+
+^ a b Proschowsky, H.F.; H. Rugbjerg &amp; A.K. Ersbell (2003). "Mortality of purebred and mixed-breed dogs in Denmark". Preventive Veterinary Medicine. 58 (1–2): 63–74. doi:10.1016/S0167-5877(03)00010-2. PMID&#160;12628771.
+
+^ a b Michell AR (1999). "Longevity of British breeds of dog and its relationships with sex, size, cardiovascular variables and disease". The Veterinary Record. 145 (22): 625–629. doi:10.1136/vr.145.22.625. PMID&#160;10619607.
+
+^ a b c d Compiled by Cassidy; K.M. "Dog Longevity Web Site, Breed Data page". Retrieved 8 July 2007.
+
+^ Patronek GJ, Waters DJ, Glickman LT (1997). "Comparative longevity of pet dogs and humans: implications for gerontology research". The Journals of Gerontology. Series A, Biological Sciences and Medical Sciences. 52 (3): B171–178. doi:10.1093/gerona/52A.3.B171. PMID&#160;9158552.
+
+^ Guinness World Records (ed.). "world's oldest dog".
+
+^ Guinness Book of Records. Guinness Publishing Ltd. 1998. p.&#160;240.Edition included both Bluey and Taffy.
+
+^ "Sexual Maturity&#160;– Spay and Neuter". Buffalo.com. Archived from the original on 10 June 2009. Retrieved 22 October 2008.
+
+^ Concannon, P; Tsutsui, T; Shille, V (2001). "Embryo development, hormonal requirements and maternal responses during canine pregnancy". Journal of Reproduction and Fertility. Supplement. 57: 169–179. PMID&#160;11787146.
+
+^ "Dog Development – Embryology". Php.med.unsw.edu.au. 16 June 2013. Archived from the original on 2 December 2013. Retrieved 22 September 2013.
+
+^ "Gestation in dogs". Archived from the original on 3 June 2013. Retrieved 24 March 2013.
+
+^ "HSUS Pet Overpopulation Estimates". The Humane Society of the United States. Retrieved 22 October 2008.
+
+^ "French Bulldog Pet Care Guide". Archived from the original on 26 July 2011. Retrieved 7 January 2008.
+
+^ "Top 10 reasons to spay/neuter your pet". American Society for Prevention of Cruelty to Animals. Retrieved 16 May 2007.
+
+^ Mahlow, Jane C. (1999). "Estimation of the proportions of dogs and cats that are surgically sterilized". Journal of the American Veterinary Medical Association. 215 (5): 640–643. PMID&#160;10476708. Although the cause of pet overpopulation is multifaceted, the lack of guardians choosing to spay or neuter their animals is a major contributing factor.
+
+^ Heidenberger, E; Unshelm, J (February 1990). "Changes in the behavior of dogs after castration". Tierärztliche Praxis (in German). 18 (1): 69–75. ISSN&#160;0303-6286. PMID&#160;2326799.
+
+^ Morrison, Wallace B. (1998). Cancer in Dogs and Cats (1st ed.). Williams and Wilkins. ISBN&#160;978-0-683-06105-5.
+
+^ Arnold S (1997). "[Urinary incontinence in castrated bitches. Part 1: Significance, clinical aspects and etiopathogenesis]". Schweizer Archiv für Tierheilkunde (in German). 139 (6): 271–276. PMID&#160;9411733.
+
+^ Johnston, SD; Kamolpatana, K; Root-Kustritz, MV; Johnston, GR (July 2000). "Prostatic disorders in the dog". Anim. Reprod. Sci. 60–61: 405–415. doi:10.1016/S0378-4320(00)00101-9. ISSN&#160;0378-4320. PMID&#160;10844211.
+
+^ Root-Kustritz MV (December 2007). "Determining the optimal age for gonadectomy of dogs and cats". JAVMA. 231 (11): 1665–1675. doi:10.2460/javma.231.11.1665. ISSN&#160;0003-1488. PMID&#160;18052800.
+
+^ Leroy G (2011). "Genetic diversity, inbreeding and breeding practices in dogs: results from pedigree analyses". Vet. J. 189 (2): 177–182. doi:10.1016/j.tvjl.2011.06.016. PMID&#160;21737321.
+
+^ Charlesworth D, Willis JH (2009). "The genetics of inbreeding depression". Nat. Rev. Genet. 10 (11): 783–796. doi:10.1038/nrg2664. PMID&#160;19834483.
+
+^ Bernstein H, Hopf FA, Michod RE (1987). The molecular basis of the evolution of sex. Adv. Genet. Advances in Genetics. 24. pp.&#160;323–370. doi:10.1016/s0065-2660(08)60012-7. ISBN&#160;978-0-12-017624-3. PMID&#160;3324702.
+
+^ Leroy G, Phocas F, Hedan B, Verrier E, Rognon X (2015). "Inbreeding impact on litter size and survival in selected canine breeds" (PDF). Vet. J. 203 (1): 74–78. doi:10.1016/j.tvjl.2014.11.008. PMID&#160;25475165.
+
+^ Gresky C, Hamann H, Distl O (2005). "[Influence of inbreeding on litter size and the proportion of stillborn puppies in dachshunds]". Berl. Munch. Tierarztl. Wochenschr. (in German). 118 (3–4): 134–139. PMID&#160;15803761.
+
+^ a b van der Beek S, Nielen AL, Schukken YH, Brascamp EW (1999). "Evaluation of genetic, common-litter, and within-litter effects on preweaning mortality in a birth cohort of puppies". Am. J. Vet. Res. 60 (9): 1106–1110. PMID&#160;10490080.
+
+^ Pilley, John (2013). Chaser: Unlocking the genius of the dog who knows a thousand words. Houghton Mifflin Harcourt. ISBN&#160;9780544102576.
+
+^ "Your Dog May Be Smart, but She's Not Exceptional". Retrieved 11 October 2018.
+
+^ Piotti, Patrizia; Kaminski, Juliane (10 August 2016). "Do Dogs Provide Information Helpfully?". PLOS ONE. 11 (8): e0159797. Bibcode:2016PLoSO..1159797P. doi:10.1371/journal.pone.0159797. ISSN&#160;1932-6203. PMC&#160;4980001. PMID&#160;27508932.
+
+^ Smith, B.; Litchfield, C. (2010). "How well do dingoes (Canis dingo) perform on the detour task". Animal Behaviour. 80: 155–162. doi:10.1016/j.anbehav.2010.04.017.
+
+^ Miklósi, A; Kubinyi, E; Topál, J; Gácsi, M; Virányi, Z; Csányi, V (April 2003). "A simple reason for a big difference: wolves do not look back at humans, but dogs do". Curr Biol. 13 (9): 763–766. doi:10.1016/S0960-9822(03)00263-X. PMID&#160;12725735.
+
+^ Levitis, Daniel A.; Lidicker, William Z. Jr.; Freund, Glenn (June 2009). "Behavioural biologists do not agree on what constitutes behaviour" (PDF). Animal Behaviour. 78 (1): 103–110. doi:10.1016/j.anbehav.2009.03.018. PMC&#160;2760923. PMID&#160;20160973.
+
+^ Tomasello, M.; Kaminski, J. (2009). "Like Infant, Like Dog". Science. 325 (5945): 1213–1214. doi:10.1126/science.1179670. PMID&#160;19729645.
+
+^ Serpell J, Duffy D. Dog Breeds and Their Behavior. In: Domestic Dog Cognition and Behavior. Berlin, Heidelberg: Springer; 2014
+
+^ a b c d e Cagan, Alex; Blass, Torsten (2016). "Identification of genomic variants putatively targeted by selection during dog domestication". BMC Evolutionary Biology. 16: 10. doi:10.1186/s12862-015-0579-7. PMC&#160;4710014. PMID&#160;26754411.
+
+^ Almada RC, Coimbra NC. Recruitment of striatonigral disinhibitory and nigrotectal inhibitory GABAergic pathways during the organization of defensive behavior by mice in a dangerous environment with the venomous snake Bothrops alternatus [ Reptilia, Viperidae ] Synapse 2015:n/a–n/a
+
+^ Coppinger R, Schneider R: Evolution of working dogs. The domestic dog: Its evolution, behaviour and interactions with people. Cambridge: Cambridge University press, 1995.
+
+^ vonHoldt, Bridgett M.; Shuldiner, Emily; Koch, Ilana Janowitz; Kartzinel, Rebecca Y.; Hogan, Andrew; Brubaker, Lauren; Wanser, Shelby; Stahler, Daniel; Wynne, Clive D.L.; Ostrander, Elaine A.; Sinsheimer, Janet S.; Udell, Monique A.R. (1 July 2017). "Structural variants in genes associated with human Williams-Beuren syndrome underlie stereotypical hypersociability in domestic dogs". Science Advances. 3 (7): e1700398. Bibcode:2017SciA....3E0398V. doi:10.1126/sciadv.1700398. PMC&#160;5517105. PMID&#160;28776031.
+
+^ Bridgett M. von Holdt, Emily Shuldiner, Ilana Janowitz Koch, Rebecca Y. Kartzinel, Andrew Hogan, Lauren Brubaker, Shelby Wanser4, Daniel Stahler, Clive D.L. Wynne, Elaine A. Ostrander, Janet S. Sinsheimer and Monique A.R. Udell (19 July 2017). "Structural variants in genes associated with human Williams-Beuren syndrome underlie stereotypical hypersociability in domestic dogs". Science Advances. 3 (7): e1700398. Bibcode:2017SciA....3E0398V. doi:10.1126/sciadv.1700398. PMC&#160;5517105. PMID&#160;28776031.CS1 maint: multiple names: authors list (link)
+
+^ Mira Abed (21 July 2017). "Scientists find key 'friendliness' genes that distinguish dogs from wolves". L.A. Times.
+
+^ Coren, Stanley "How To Speak Dog: Mastering the Art of Dog-Human Communication" 2000 Simon &amp; Schuster, New York.
+
+^ Gompper, Matthew E. (2013). "Ch.1-The dog–human–wildlife interface: assessing the scope of the problem".  In Gompper, Matthew E (ed.). Free-Ranging Dogs and Wildlife Conservation. Oxford University Press. p.&#160;25. ISBN&#160;978-0-19-181018-3.
+
+^ Laveaux, C.J. &amp; King of Prussia, F (1789). The life of Frederick the Second, King of Prussia: To which are added observations, Authentic Documents, and a Variety of Anecdotes. J. Derbett London.
+
+^ Ortolani, A (2009). "Ethiopian village dogs: Behavioural responses to a stranger's approach". Applied Animal Behaviour Science. 119 (3–4): 210–218. doi:10.1016/j.applanim.2009.03.011.
+
+^ Udell, M.A.R.; Dorey, N.R.; Wynne, C.D.L. (2010). "What did domestication do to dogs? A new account of dogs' sensitivity to human actions". Biological Reviews. 85 (2): 327–345. CiteSeerX&#160;10.1.1.483.3002. doi:10.1111/j.1469-185X.2009.00104.x. PMID&#160;19961472.
+
+^ a b c Lescureux, Nicolas; Linnell, John D.C. (2014). "Warring brothers: The complex interactions between wolves (Canis lupus) and dogs (Canis familiaris) in a conservation context". Biological Conservation. 171: 232–245. doi:10.1016/j.biocon.2014.01.032.
+
+^ Vanak, A.T., Dickman, C.R., Silva-Rodriguez, E.A., Butler, J.R.A., Ritchie, E.G., 2014. Top-dogs and under-dogs: competition between dogs and sympatric carnivores. In: Gompper, M.E. (Ed.), Free-Ranging Dogs and Wildlife Conservation. Oxford University Press, Oxford, pp. 69–93
+
+^ Boitani &amp; Mech 2003, pp.&#160;259–264.
+
+^ a b Boitani &amp; Mech 2003, pp.&#160;305–306.
+
+^ Graves, Will (2007). Wolves in Russia: Anxiety throughout the ages. Calgary: Detselig Enterprises. p.&#160;222. ISBN&#160;978-1-55059-332-7. Archived from the original on 2 August 2009. Retrieved 13 June 2008.
+
+^ Kojola, I.; Ronkainen, S.; Hakala, A.; Heikkinen, S.; Kokko, S. "Interactions between wolves Canis lupus and dogs C. familiaris in Finland". Nordic Council for Wildlife Research. Cite journal requires &#124;journal= (help)
+
+^ Scott, Jonathan; Scott, Angela (2006). Big Cat Diary: Leopard. London: Collins. p.&#160;108. ISBN&#160;978-0-00-721181-4.
+
+^ Perry, Richard (1965). The World of the Tiger. p.&#160;260. ASIN: B0007DU2IU.
+
+^ "Striped Hyaena Hyaena (Hyaena) hyaena (Linnaeus, 1758)". IUCN Species Survival Commission Hyaenidae Specialist Group. Archived from the original on 28 September 2007. Retrieved 21 May 2008.
+
+^ Marc Bekoff; Dale Jamieson (2006). "Ethics and the Study of Carnivores". Animal passions and beastly virtues. Temple University Press. ISBN&#160;978-1-59213-348-2.
+
+^ Hazard, Evan B. (1982). "Order Carnivora". The mammals of Minnesota. U of Minnesota Press. ISBN&#160;978-0-8166-0952-9.
+
+^ S.G. Pierzynowski; R. Zabielski (1999). Biology of the pancreas in growing animals. Volume 28 of Developments in animal and veterinary sciences. Elsevier Health Sciences. p.&#160;417. ISBN&#160;978-0-444-50217-9.
+
+^ National Research Council (U.S.). Ad Hoc Committee on Dog and Cat Nutrition (2006). Nutrient requirements of dogs and cats. National Academies Press. p.&#160;137. ISBN&#160;978-0-309-08628-8.
+
+^ Smith, Cheryl S. (2008). "Chapter 6, Omnivores Together". Grab Life by the Leash: A Guide to Bringing Up and Bonding with Your Four-Legged Friend. John Wiley and Sons. ISBN&#160;978-0-470-17882-9.
+
+^ Fascetti, Andrea J.; Delaney, Sean J., eds. (2012). "7". Applied Veterinary Clinical Nutrition (1 ed.). Wiley-Blackwell. p.&#160;76. ISBN&#160;978-0-813-80657-0.
+
+^ Hung, H.; Carson, Mike T.; Bellwood, Peter;  et al. (2011). "The first settlement of Remote Oceania: The Philippines to the Marianas". Antiquity. 85 (329): 909–926. doi:10.1017/S0003598X00068393.
+
+^ Osborne, Douglas (1966). The archaeology of the Palau Islands. Bernice P. Bishop Museum Bulletin. 230. p.&#160;29. ISBN&#160;978-0-910240-58-1.
+
+^ a b Urban, Manfred (1961). Die Haustiere der Polynesier. Göttingen: Häntzschel.
+
+^ a b Matisoo-Smith, Elizabeth (February 2015). "Ancient DNA and the human settlement of the Pacific: A review". Journal of Human Evolution. 79: 93–104. doi:10.1016/j.jhevol.2014.10.017. PMID&#160;25556846.
+
+^ a b c d Forster, Johann Reinhold (1778). Observations Made During a Voyage Round the World. p.&#160;188.
+
+^ Sharp, Andrew (1964). Ancient Voyagers in Polynesia. Berkeley: University of California Press. p.&#160;120.
+
+^ "Pitcairn's Island". The Asiatic Journal and Monthly Register for British and Foreign India, China, and Australia. 10: 38. 1820.
+
+^ https://nettarkiv.npolar.no/sorpolen2011.npolar.no/en/did-you-know/2011-11-12-dogs-are-banned-from-antarctica.html
+
+^ The Complete dog book: the photograph, history, and official standard of every breed admitted to AKC registration, and the selection, training, breeding, care, and feeding of pure-bred dogs. New York: Howell Book House. 1992. ISBN&#160;978-0-87605-464-2.&#91;page&#160;needed&#93;
+
+^ a b Miklósi, Adám (2007). Dog Behaviour, Evolution, and Cognition. Oxford University Press. doi:10.1093/acprof:oso/9780199295852.001.0001. ISBN&#160;978-0-19-929585-2.
+
+^ a b Wingfield-Hayes, Rupert (29 June 2002). "China's taste for the exotic". BBC News.
+
+^ a b "Vietnam's dog meat tradition". BBC News. 31 December 2001.
+
+^ a b c Groves, Colin (1999). "The Advantages and Disadvantages of Being Domesticated". Perspectives in Human Biology. 4: 1–12. ISSN&#160;1038-5762.
+
+^ a b c d e Tacon, Paul; Pardoe, Colin (2002). "Dogs make us human". Nature Australia. 27 (4): 52–61.
+
+^ Ruusila, Vesa; Pesonen, Mauri (2004). "Interspecific cooperation in human (Homo sapiens) hunting: the benefits of a barking dog (Canis familiaris)" (PDF). Annales Zoologici Fennici. 41 (4): 545–549.
+
+^ Newby, Jonica (1997). The Pact for Survival. Sydney: ABC Books. ISBN&#160;978-0-7333-0581-8.&#91;page&#160;needed&#93;
+
+^ a b A History of Dogs in the Early Americas, Marion Schwartz, 1998, 260 p., ISBN&#160;978-0-300-07519-9, Yale University Press
+
+^ "UMaine Student Finds Oldest Known Domesticated Dog in Americas". Umaine.edu. The University of Maine – UMaine News. 11 January 2011. Retrieved 4 July 2013.
+
+^ Derr, Mark (2004). A dogs history of America. North Point Press. p. 12
+
+^ a b Derr, Mark (1997). Dog's Best Friend. Chicago: University of Chicago Press. ISBN&#160;978-0-226-14280-7.
+
+^ Franklin, A (2006). "Be[a]ware of the Dog: a post-humanist approach to housing". Housing, Theory and Society. 23 (3): 137–156. doi:10.1080/14036090600813760. ISSN&#160;1403-6096.
+
+^ Katz, Jon (2003). The New Work of Dogs. New York: Villard Books. ISBN&#160;978-0-375-76055-6.
+
+^ Haraway, Donna (2003). The Companion Species manifesto: Dogs, People and Significant Otherness. Chicago: Prickly Paradigm Press. ISBN&#160;978-0-9717575-8-5.
+
+^ a b c d e Power, Emma (2008). "Furry Families: Making a Human-Dog Family through Home". Social and Cultural Geography. 9 (5): 535–555. doi:10.1080/14649360802217790.
+
+^ a b c Nast, Heidi J. (2006). "Loving&#160;... Whatever: Alienation, Neoliberalism and Pet-Love in the Twenty-First Century". ACME: An International e-Journal for Critical Geographies. 5 (2): 300–327. ISSN&#160;1492-9732.
+
+^ "A Brief History of Dog Training". Dog Zone. 3 June 2007. Retrieved 19 February 2010.
+
+^ Jackson Schebetta, Lisa (2009). "Mythologies and Commodifications of Dominion in The Dog Whisperer with Cesar Millan". Journal for Critical Animal Studies. 7 (1): 107–131. ISSN&#160;1948-352X.
+
+^ Bradshaw, John; Blackwell, Emily J.; Casey, Rachel A. (2009). "Dominance in domestic dogs: useful construct or bad habit?" (PDF). Journal of Veterinary Behavior. 4 (3): 135–144. doi:10.1016/j.jveb.2008.08.004. Archived from the original (PDF) on 27 August 2010.
+
+^ Tannen, Deborah (2004). "Talking the Dog: Framing Pets as Interactional Resources in Family Discourse". Research on Language and Social Interaction. 37 (4): 399–420. doi:10.1207/s15327973rlsi3704_1. ISSN&#160;1532-7973.
+
+^ "U.S. Pet Ownership Statistics". Retrieved 24 June 2010.
+
+^ James Edgar (21 February 2014). "Dogs and humans respond to voices in same way". The Daily Telegraph. London.
+
+^ Williams, Tully (2007). Working Sheep Dogs. Collingwood, Vic.: CSIRO Publishing. ISBN&#160;978-0-643-09343-0.
+
+^ Vikki Fenton, The use of dogs in search, rescue and recovery, Journal of Wilderness Medicine, Vol. 3, Issue 3, August 1992, pp. 292–300.
+
+^ John J. Ensminger, Police and Military Dogs: Criminal Detection, Forensic Evidence, and Judicial Admissibility (CRC Press, 2012).
+
+^ Philip Shernomay, Dogs Take Their Place in Arsenal Against Chemical Attack, New York Times (13 May 2003).
+
+^ Alex Wellerstein (3 November 2017). "Remembering Laika, Space Dog and Soviet Hero". New Yorker.
+
+^ Solovyov, Dmitry; Pearce, Tim (ed.) (11 April 2008). "Russia fetes dog Laika, first earthling in space". Reuters.CS1 maint: extra text: authors list (link)
+
+^ Audrestch, Hilary M.; Whelan, Chantelle T.; Grice, David; Asher, Lucy; England, Gary C.W.; Freeman, Sarah L. (2015). "Recognizing the value of assistance dogs in society" (PDF). Disability and Health Journal. 8 (4): 469–474. doi:10.1016/j.dhjo.2015.07.001. PMID&#160;26364936.
+
+^ Walther, S.; Yamamoto, M.; Thigpen, A.P.; Garcia, A.; Willits, N.H.; Hart, L.A. (2017). "Assistance Dogs: Historic Patterns and Roles of Dogs Placed by ADI or IGDF Accredited Facilities and by Non-Accredited U.S. Facilities". Frontiers in Veterinary Science. 4: 1. doi:10.3389/fvets.2017.00001. PMC&#160;5243836. PMID&#160;28154816.
+
+^ Dalziel DJ, Uthman BM, Mcgorray SP, Reep RL (2003). "Seizure-alert dogs: a review and preliminary study". Seizure. 12 (2): 115–120. doi:10.1016/S105913110200225X. PMID&#160;12566236.
+
+^ "A Beginner's Guide to Dog Shows". American Kennel Club. Retrieved 30 October 2008.
+
+^ Simoons, Frederick J. (1994). Eat not this flesh: food avoidances from prehistory to the present (second ed.). University of Wisconsin Press. pp.&#160;208–212. ISBN&#160;978-0-299-14254-4.
+
+^ "How many dogs and cats are eaten in Asia?". Animalpeoplenews.org. Archived from the original on 25 January 2012. Retrieved 19 December 2012.
+
+^ "China bans dog meat at infamous Yulin festival". The Independent. Retrieved 11 October 2018.
+
+^ Dai, WangYun (14 February 2018). "7,000 Years of the Dog: A History of China's Canine Companions". Sixth Tone. Retrieved 12 April 2019.
+
+^ Day, Matthew (7 August 2009). "Polish couple accused of making dog meat delicacy". London: Telegraph.co.uk. Retrieved 21 December 2010.
+
+^ Schwabe, Calvin W. (1979). Unmentionable Cuisine. Charlottesville: University Press of Virginia. p.&#160;173. ISBN&#160;978-0-8139-1162-5.
+
+^ William Saletan (16 January 2002). "Wok The Dog – What's wrong with eating man's best friend?". Slate. Retrieved 23 July 2007.
+
+^ Ahmed Zihni (2004). "Dog Meat Dilemma". sunysb.edu. Archived from the original on 11 August 2007. Retrieved 11 May 2008.
+
+^ "'Do Koreans eat dogs?' and Western hypocrisy". 12 July 2013.
+
+^ John Feffer (2 June 2002). "The Politics of Dog – When globalization and culinary practice clash". Archived from the original on 27 April 2006. Retrieved 11 May 2007.
+
+^ a b Pettid, Michael J., Korean Cuisine: An Illustrated History, London: Reaktion Books Ltd., 2008, 25. ISBN&#160;1-86189-348-5
+
+^ WHO expert consultation on rabies: First report, WHO Technical Report Series, 931, World Health Organisation, 2005
+
+^ "Home &amp; Recreational Safety – Dog Bites". Centers for Disease Control and Prevention. Retrieved 27 January 2015. citing Gilchrist J.; Sacks J.J.; White, D.; Kresnow, M.J. (2008). "Dog Bites: Still a Problem?". Injury Prevention. 14 (5): 296–301. doi:10.1136/ip.2007.016220. PMID&#160;18836045.
+
+^ Jeffrey J Sacks; Marcie-jo Kresnow; Barbara Houston. "Dog bites: how big a problem?" (PDF): 53. Cite journal requires &#124;journal= (help)
+
+^ a b "Dog bites have risen in number and severity since the 1980s". Kenneth M. Phillips, Dogbitelaw.com. Retrieved 26 February 2019.
+
+^ Whitcomb, Rachael (1 July 2009). "Study: Chihuahuas bite vets most; Lhaso Apsos inflict worst injuries". DVM Newsmagazine. Retrieved 15 February 2013.
+
+^ Weiss, HB; Friedman, DI; Coben, JH (1998). "Incidence of dog bite injuries treated in emergency departments". JAMA. 279 (1): 51–53. doi:10.1001/jama.279.1.51. PMID&#160;9424044.
+
+^ Tierney, DM; Strauss, LP; Sanchez, JL (2006). "Capnocytophaga canimorsus Mycotic Abdominal Aortic Aneurysm: Why the Mailman Is Afraid of Dogs". Journal of Clinical Microbiology. 44 (2): 649–651. doi:10.1128/JCM.44.2.649-651.2006. PMC&#160;1392675. PMID&#160;16455937.
+
+^ "Mail campaign over dog attacks". BBC News. 11 August 2005.
+
+^ "Injury Prevention Bulletin" (PDF). Northwest Territories Health and Social Services. 25 March 2009. Archived from the original (PDF) on 22 March 2011. Retrieved 7 January 2010.
+
+^ Bewley, BR (1985). "Medical hazards from dogs". British Medical Journal. 291 (6498): 760–761. doi:10.1136/bmj.291.6498.760. PMC&#160;1417177. PMID&#160;3929930.
+
+^ Huh, Sun; Lee, Sooung (20 August 2008). "Toxocariasis". Medscape.com. Retrieved 15 February 2013.
+
+^ a b "Toxocariasis". Kids' Health. The Nemours Foundation. 2010. Retrieved 12 February 2010.
+
+^ Johnson, Kate (May 2002). "Parasites in pet feces cause puzzling infections". Pediatric News. Archived from the original on 7 July 2012. Retrieved 11 May 2009.
+
+^ Chiodo, Paula; Basualdo, Juan; Ciarmela, Laura; Pezzani, Betina; Apezteguía, María; Minvielle, Marta (2006). "Related factors to human toxocariasis in a rural community of Argentina". Memórias do Instituto Oswaldo Cruz. 101 (4): 397–400. doi:10.1590/S0074-02762006000400009. PMID&#160;16951810.
+
+^ Talaizadeh, A.H.; Maraghi2, S.; Jelowdar, A.; Peyvasteh, M. (October–December 2007). "Human toxocariasis: A report of 3 cases". Pakistan Journal of Medical Sciences Quarterly. 23 (5). Part I.
+
+^ "Dog fouling". UK: Woking Borough Council. Archived from the original on 15 July 2014. Retrieved 21 December 2010.
+
+^ a b McNicholas, June; Gilbey, Andrew; Rennie, Ann; Ahmedzai, Sam; Dono, Jo-Ann; Ormerod, Elizabeth (2005). "Pet ownership and human health: A brief review of evidence and issues". BMJ. 331 (7527): 1252–1254. doi:10.1136/bmj.331.7527.1252. PMC&#160;1289326. PMID&#160;16308387.
+
+^ Podberscek, A.L. (2006). "Positive and Negative Aspects of Our Relationship with Companion Animals". Veterinary Research Communications. 30 (1): 21–27. doi:10.1007/s11259-006-0005-0.
+
+^ Winefield, Helen R.; Black, Anne; Chur-Hansen, Anna (2008). "Health effects of ownership of and attachment to companion animals in an older population". International Journal of Behavioral Medicine. 15 (4): 303–310. doi:10.1080/10705500802365532. PMID&#160;19005930.
+
+^ Headey B. (1999). "Health benefits and health cost savings due to pets: preliminary estimates from an Australian national survey". Social Indicators Research. 47 (2): 233–243. doi:10.1023/A:1006892908532.
+
+^ a b Serpell J (1991). "Beneficial effects of pet ownership on some aspects of human health and behaviour". Journal of the Royal Society of Medicine. 84 (12): 717–20. doi:10.1177/014107689108401208. PMC&#160;1295517. PMID&#160;1774745.
+
+^ Friedmann E, Thomas SA (1995). "Pet ownership, social support, and one-year survival after acute myocardial infarction in the Cardiac Arrhythmia Suppression Trial (CAST)". The American Journal of Cardiology. 76 (17): 1213–1217. doi:10.1016/S0002-9149(99)80343-9. PMID&#160;7502998.
+
+^ Wilson CC (1991). "The pet as an anxiolytic intervention". The Journal of Nervous and Mental Disease. 179 (8): 482–489. doi:10.1097/00005053-199108000-00006. PMID&#160;1856711.
+
+^ McNicholas, J.; Collis, G. M. (2006). "Animals as social supports: Insights for understanding animal assisted therapy".  In Fine, Aubrey H. (ed.). Handbook on animal-assisted therapy: theoretical foundations and guidelines for practice. Amsterdam: Elsevier/Academic Press. pp.&#160;49–71. ISBN&#160;978-0-12-369484-3.
+
+^ Eddy J, Hart LA, Boltz RP (1988). "The effects of service dogs on social acknowledgments of people in wheelchairs". The Journal of Psychology. 122 (1): 39–45. doi:10.1080/00223980.1988.10542941. PMID&#160;2967371.
+
+^ Wood, Lisa; Martin, Karen; Christian, Hayley; Nathan, Andrea; Lauritsen, Claire; Houghton, Steve; Kawachi, Ichiro; McCune, Sandra (2015). "The Pet Factor – Companion Animals as a Conduit for Getting to Know People, Friendship Formation and Social Support". PLoS ONE. 10 (4): e0122085. Bibcode:2015PLoSO..1022085W. doi:10.1371/journal.pone.0122085. PMC&#160;4414420. PMID&#160;25924013.
+
+^ Kruger, K.A. &amp; Serpell, J.A. (2006). Animal-assisted interventions in mental health: Definitions and theoretical foundations, In Fine, A.H. (Ed.), Handbook on animal-assisted therapy: Theoretical foundations and guidelines for practice. San Diego, CA, Academic Press: 21–38. ISBN&#160;0-12-369484-1
+
+^ Batson, K.; McCabe, B.; Baun, M.M.; Wilson, C. (1998). "The effect of a therapy dog on socialization and psychological indicators of stress in persons diagnosed with Alzheimer's disease".  In Turner, Dennis C.; Wilson, Cindy C. (eds.). Companion animals in human health. Thousand Oaks, CA: Sage Publications. pp.&#160;203–215. ISBN&#160;978-0-7619-1061-9.
+
+^ Katcher, A.H.; Wilkins, G.G. (2006). "The Centaur's Lessons: Therapeutic education through care of animals and nature study".  In Fine, Aubrey H. (ed.). Handbook on animal-assisted therapy: theoretical foundations and guidelines for practice. Amsterdam: Elsevier/Academic Press. pp.&#160;153–177. ISBN&#160;978-0-12-369484-3.
+
+^ Animals abandoned as recession hits home Archived 7 June 2011 at the Wayback Machine. TheStar.com. 22 December 2008.
+
+^ HSUS Pet Overpopulation Estimates Archived 25 April 2013 at the Wayback Machine The Humane Society of the United States
+
+^ "ASPCA Pet Statistics". Retrieved 8 August 2012.
+
+^ Palika, Liz (2004). Purebred Rescue Dog Adoption: Rewards and Realities. Howell Book House. ISBN&#160;978-0-7645-4971-7. Retrieved 24 February 2010.
+
+^ a b c d e f g h Sherman, Josepha (2008). Storytelling: An Encyclopedia of Mythology and Folklore. Sharpe Reference. pp.&#160;118–121. ISBN&#160;978-0-7656-8047-1.
+
+^ a b c Black, Jeremy; Green, Anthony (1992). Gods, Demons and Symbols of Ancient Mesopotamia: An Illustrated Dictionary. The British Museum Press. pp.&#160;70, 101. ISBN&#160;978-0-7141-1705-8.
+
+^ a b Mallory, James P.; Adams, Douglas Q. (2006). Oxford Introduction to Proto-Indo-European and the Proto-Indo-European World. Oxford, England: Oxford University Press. p.&#160;439.
+
+^ a b West, Martin Litchfield (2007). Indo-European Poetry and Myth. Oxford: Oxford University Press. p.&#160;392. ISBN&#160;978-0-19-928075-9.
+
+^ "Indian Myth and Legend: Chapter III. Yama, the First Man, and King of the Dead". Sacred-texts.com. Retrieved 4 July 2013.
+
+^ Fodor's Essential India: with Delhi, Rajasthan, Mumbai, and Kerala. Random House LLC. 2013. ISBN&#160;978-0-89141-944-0. Retrieved 13 May 2014.
+
+^ a b ""Hounds of the Lord": The Little-Known Meaning of the Dominican Dog". ChurchPOP. 7 August 2017. Retrieved 9 December 2017.
+
+^ Dyer, Thomas Firminger Thiselton (1898). The Ghost World. Ward &amp; Downey. pp.&#160;125–126.
+
+^ a b "Judaism &amp; The Treatment of Animals". Jewish Virtual Library.
+
+^ Khaled Abou El Fadl (2004). "Dogs in the Islamic Tradition and Nature". Encyclopedia of Religion and Nature. New York: Scholar of the House. Missing or empty &#124;url= (help)
+
+^ Coren, Stanley (23 March 2010). "Dogs and Islam: The Devil and the Seeing-Eye Dog". Psychology Today. Psychology Today. Retrieved 26 May 2014.
+
+^ "Animal Symbolism in Many Cultures".
+
+^ a b "Dogs Have Their Day: AKC Dog Museum Opens In New York City". NPR.org. Retrieved 11 February 2019.
+
+
+Cite error: A list-defined reference named "hare2013" is not used in the content (see the help page).
+
+
+Bibliography
+Miklósi, Adám (2007). Dog Behaviour, Evolution, and Cognition. Oxford University Press. doi:10.1093/acprof:oso/9780199295852.001.0001. ISBN&#160;978-0-19-929585-2.
+Smith, Bradley, ed. (2015). The Dingo Debate: Origins, Behaviour and Conservation. CSIRO Publishing, Melbourne, Australia. ISBN&#160;978-1-4863-0030-3.
+Boitani, Luigi; Mech, L. David (2003). Wolves: Behavior, Ecology, and Conservation. Chicago: University of Chicago Press. p.&#160;482. ISBN&#160;978-0-226-51696-7. OCLC&#160;904338888.
+Further reading
+De Vito, Dominique (1995). World Atlas of Dog Breeds (Hardcover) (6th ed.). Neptune City, NJ; Lanham, MD: TFH Publications, Inc. pp.&#160;960 pages. ISBN&#160;978-0-7938-0656-0.
+Wilcox, Bonnie; Walkowicz, Chris (1995). Atlas of Dog Breeds of the World (Print) (5th ed.). Neptune City, NJ; Lanham, MD: TFH Publications, Inc. Distributed in the U.S. to the Bookstore and library trade by National Book Network. p.&#160;912. ISBN&#160;978-0-7938-1284-4.
+External links
+Dogat Wikipedia's sister projectsDefinitions from Wiktionary
+            Media from Wikimedia Commons
+            News from Wikinews
+            Quotations from Wikiquote
+            Texts from Wikisource
+            Textbooks from Wikibooks
+            Taxonomy from Wikispecies
+            
+
+Biodiversity Heritage Library bibliography for Canis lupus familiaris
+Fédération Cynologique Internationale (FCI) – World Canine Organisation
+Dogs in the Ancient World, an article on the history of dogs
+View the dog genome on Ensembl
+vteDogsBehavior
+Barking
+Communication
+Human–canine bond
+Intelligence
+Dog–cat relationship
+Health
+Aging
+Anatomy
+Coat
+Conformation
+Diseases
+Dog food
+Odor
+Rabies
+Reproduction
+Skin disorders
+Vaccination
+Training
+Clicker
+Crate training
+Training
+Housebreaking
+Obedience
+Socialization
+Types
+African village dogs
+Bichons
+Bulldogs
+Curs
+Dogos
+Feists
+Hairless dogs
+Herding dogs
+Hounds
+Scenthounds
+Sighthounds
+Laikas
+Livestock guardian dogs
+Mastiffs
+Pinschers
+Pointers
+Retrievers
+Setters
+Schnauzers
+Spaniels
+Spitz
+Street dogs
+Terriers
+Water dogs
+Wolfdogs
+Breeds
+List of breeds
+List of crossbreeds
+Breeding
+Crossbreeds
+Extinct breeds
+Most popular
+Pure breeds
+Rare breeds
+Roles
+Assistance dog
+Attack dog
+Bay dogs
+Catch dogs
+Companion dogs
+Detection dogs
+Fighting dogs
+Guard dogs
+Guide dogs
+Gun dogs
+Hearing dogs
+Herding dog
+Hunting dogs
+Lap dogs
+Meat dogs
+Pastoral dogs
+Pet dogs
+Police dogs
+Search and rescue dogs
+Service dogs
+Sled dogs
+Therapy dogs
+Toy dogs
+Turnspit dogs
+War dogs
+Working dogs
+Human–doginteraction
+Animal testing
+Baiting
+Breed-specific legislation
+Dog attack
+Dog fighting
+Dog park
+Human-canine bond
+Dog sports
+Dog walking
+Dog daycare
+Dog grooming
+Famous dogs
+Therapy
+Fear of dogs
+Dog licence
+Dog meat
+Dog food
+dog biscuit
+2007 recalls
+Dogs in religion
+Origin of the domestic dog
+
+ Category
+
+vteExtant Carnivora species
+Kingdom: Animalia
+Phylum: Chordata
+Class: Mammalia
+Infraclass: Eutheria
+Superorder: Laurasiatheria
+Suborder FeliformiaNandiniidaeNandinia
+African palm civet (N. binotata)
+Herpestidae.mw-parser-output .nobold{font-weight:normal}(Mongooses)Atilax
+Marsh mongoose (A. paludinosus)
+Bdeogale
+Bushy-tailed mongoose (B. crassicauda)
+Jackson's mongoose (B. jacksoni)
+Black-footed mongoose (B. nigripes)
+Crossarchus
+Alexander's kusimanse (C. alexandri)
+Angolan kusimanse (C. ansorgei)
+Common kusimanse (C. obscurus)
+Flat-headed kusimanse (C. platycephalus)
+Cynictis
+Yellow mongoose (C. penicillata)
+Dologale
+Pousargues's mongoose (D. dybowskii)
+Galerella
+Angolan slender mongoose (G. flavescens)
+Black mongoose (G. nigrata)
+Somalian slender mongoose (G. ochracea)
+Cape gray mongoose (G. pulverulenta)
+Slender mongoose (G. sanguinea)
+Helogale
+Ethiopian dwarf mongoose (H. hirtula)
+Common dwarf mongoose (H. parvula)
+Herpestes
+Short-tailed mongoose (H. brachyurus)
+Indian gray mongoose (H. edwardsii)
+Indian brown mongoose (H. fuscus)
+Egyptian mongoose (H. ichneumon)
+Small Asian mongoose (H. javanicus)
+Long-nosed mongoose (H. naso)
+Collared mongoose (H. semitorquatus)
+Ruddy mongoose (H. smithii)
+Crab-eating mongoose (H. urva)
+Stripe-necked mongoose (H. vitticollis)
+Ichneumia
+White-tailed mongoose (I. albicauda)
+Liberiictus
+Liberian mongoose (L. kuhni)
+Mungos
+Gambian mongoose (M. gambianus)
+Banded mongoose (M. mungo)
+Paracynictis
+Selous' mongoose (P. selousi)
+Rhynchogale
+Meller's mongoose (R. melleri)
+Suricata
+Meerkat (S. suricatta)
+Hyaenidae(Hyenas)Crocuta
+Spotted hyena (C. crocuta)
+Hyaena
+Brown hyena (H. brunnea)
+Striped hyena (H. hyaena)
+Proteles
+Aardwolf (P. cristatus)
+FelidaeLarge family listed belowViverridaeLarge family listed belowEupleridaeSmall family listed belowFamily FelidaeFelinaeAcinonyx
+Cheetah (A. jubatus)
+Caracal
+Caracal (C. caracal)
+African golden cat (C. aurata)
+Catopuma
+Bay cat (C. badia)
+Asian golden cat (C. temminckii)
+Felis
+European wildcat (F. silvestris)
+African wildcat (F. lybica)
+Jungle cat (F. chaus)
+Black-footed cat (F. nigripes)
+Sand cat (F. margarita)
+Chinese mountain cat (F. bieti)
+Domestic cat (F. catus)
+Leopardus
+Ocelot (L. pardalis)
+Margay (L. wiedii)
+Pampas cat (L. colocola)
+Geoffroy's cat (L. geoffroyi)
+Kodkod (L. guigna)
+Andean mountain cat (L. jacobita)
+Oncilla (L. tigrinus)
+Southern tigrina (L. guttulus)
+Leptailurus
+Serval (L. serval)
+Lynx
+Canada lynx (L. canadensis)
+Eurasian lynx (L. lynx)
+Iberian lynx (L. pardinus)
+Bobcat (L. rufus)
+Otocolobus
+Pallas's cat (O. manul)
+Pardofelis
+Marbled cat (P. marmorata)
+Prionailurus
+Fishing cat (P. viverrinus)
+Leopard cat (P. bengalensis)
+Sundaland leopard cat  (P. javanensis)
+Flat-headed cat (P. planiceps)
+Rusty-spotted cat (P. rubiginosus)
+Puma
+Cougar (P. concolor)
+Herpailurus
+Jaguarundi (H. yagouaroundi)
+PantherinaePanthera
+Lion (P. leo)
+Jaguar (P. onca)
+Leopard (P. pardus)
+Tiger (P. tigris)
+Snow leopard (P. uncia)
+Neofelis
+Clouded leopard (N. nebulosa)
+Sunda clouded leopard (N. diardi)
+Family ViverridaeParadoxurinaeArctictis
+Binturong (A. binturong)
+Arctogalidia
+Small-toothed palm civet (A. trivirgata)
+Macrogalidia
+Sulawesi palm civet (M. musschenbroekii)
+Paguma
+Masked palm civet (P. larvata)
+Paradoxurus
+Golden wet-zone palm civet (P. aureus)
+Asian palm civet (P. hermaphroditus)
+Jerdon's palm civet (P. jerdoni)
+Golden palm civet (P. zeylonensis)
+HemigalinaeChrotogale
+Owston's palm civet (C. owstoni)
+Cynogale
+Otter civet (C. bennettii)
+Diplogale
+Hose's palm civet (D. hosei)
+Hemigalus
+Banded palm civet (H. derbyanus)
+Prionodontinae(Asiatic linsangs)Prionodon
+Banded linsang (P. linsang)
+Spotted linsang (P. pardicolor)
+ViverrinaeCivettictis
+African civet (C. civetta)
+Genetta(Genets)
+Abyssinian genet (G. abyssinica)
+Angolan genet (G. angolensis)
+Bourlon's genet (G. bourloni)
+Crested servaline genet (G. cristata)
+Common genet (G. genetta)
+Johnston's genet (G. johnstoni)
+Rusty-spotted genet (G. maculata)
+Pardine genet (G. pardina)
+Aquatic genet (G. piscivora)
+King genet (G. poensis)
+Servaline genet (G. servalina)
+Haussa genet (G. thierryi)
+Cape genet (G. tigrina)
+Giant forest genet (G. victoriae)
+Poiana
+Central African oyan (P. richardsonii)
+West African oyan (P. leightoni)
+Viverra
+Malabar large-spotted civet (V. civettina)
+Large-spotted civet (V. megaspila)
+Malayan civet (V. tangalunga)
+Large Indian civet (V. zibetha)
+Viverricula
+Small Indian civet (V. indica)
+Family EupleridaeEuplerinaeCryptoprocta
+Fossa (C. ferox)
+Eupleres
+Eastern falanouc (E. goudotii)
+Western falanouc (E. major)
+Fossa
+Malagasy civet (F. fossana)
+GalidiinaeGalidia
+Ring-tailed mongoose (G. elegans)
+Galidictis
+Broad-striped Malagasy mongoose (G. fasciata)
+Grandidier's mongoose (G. grandidieri)
+Mungotictis
+Narrow-striped mongoose (M. decemlineata)
+Salanoia
+Brown-tailed mongoose (S. concolor)
+Durrell's vontsira (S. durrelli)
+Suborder Caniformia (cont. below)Ursidae(Bears)Ailuropoda
+Giant panda (A. melanoleuca)
+Helarctos
+Sun bear (H. malayanus)
+Melursus
+Sloth bear (M. ursinus)
+Tremarctos
+Spectacled bear (T. ornatus)
+Ursus
+American black bear (U. americanus)
+Brown bear (U. arctos)
+Polar bear (U. maritimus)
+Asian black bear (U. thibetanus)
+Mephitidae(Skunks)Conepatus(Hog-nosedskunks)
+Molina's hog-nosed skunk (C. chinga)
+Humboldt's hog-nosed skunk (C. humboldtii)
+American hog-nosed skunk (C. leuconotus)
+Striped hog-nosed skunk (C. semistriatus)
+Mephitis
+Hooded skunk (M. macroura)
+Striped skunk (M. mephitis)
+Mydaus
+Sunda stink badger (M. javanensis)
+Palawan stink badger (M. marchei)
+Spilogale(Spotted skunks)
+Southern spotted skunk (S. angustifrons)
+Western spotted skunk (S. gracilis)
+Eastern spotted skunk (S. putorius)
+Pygmy spotted skunk (S. pygmaea)
+Procyonidae(Raccoons, coatis, olingos)Bassaricyon(Olingos)
+Eastern lowland olingo (B. alleni)
+Northern olingo (B. gabbii)
+Western lowland olingo (B. medius)
+Olinguito (B. neblina)
+Bassariscus
+Ring-tailed cat (B. astutus)
+Cacomistle (B. sumichrasti)
+Nasua(Coatis inclusive)
+White-nosed coati (N. narica)
+South American coati (N. nasua)
+Nasuella(Coatis inclusive)
+Western mountain coati (N. olivacea)
+Eastern mountain coati (N. meridensis)
+Potos
+Kinkajou (P. flavus)
+Procyon
+Crab-eating raccoon (P. cancrivorus)
+Raccoon (P. lotor)
+Cozumel raccoon (P. pygmaeus)
+AiluridaeAilurus
+Red panda (A. fulgens)
+Suborder Caniformia (cont. above)Otariidae(Eared seals)(includes fur sealsand sea lions)(Pinniped inclusive)Arctocephalus
+South American fur seal (A. australis)
+Australasian fur seal (A. forsteri)
+Galápagos fur seal (A. galapagoensis)
+Antarctic fur seal (A. gazella)
+Juan Fernández fur seal (A. philippii)
+Brown fur seal (A. pusillus)
+Guadalupe fur seal (A. townsendi)
+Subantarctic fur seal (A. tropicalis)
+Callorhinus
+Northern fur seal (C. ursinus)
+Eumetopias
+Steller sea lion (E. jubatus)
+Neophoca
+Australian sea lion (N. cinerea)
+Otaria
+South American sea lion (O. flavescens)
+Phocarctos
+New Zealand sea lion (P. hookeri)
+Zalophus
+California sea lion (Z. californianus)
+Galápagos sea lion (Z. wollebaeki)
+Odobenidae(Pinniped inclusive)Odobenus
+Walrus (O. rosmarus)
+Phocidae(Earless seals)(Pinniped inclusive)Cystophora
+Hooded seal (C. cristata)
+Erignathus
+Bearded seal (E. barbatus)
+Halichoerus
+Grey seal (H. grypus)
+Histriophoca
+Ribbon seal (H. fasciata)
+Hydrurga
+Leopard seal (H. leptonyx)
+Leptonychotes
+Weddell seal (L. weddellii)
+Lobodon
+Crabeater seal (L. carcinophagus)
+Mirounga(Elephant seals)
+Northern elephant seal (M. angustirostris)
+Southern elephant seal (M. leonina)
+Monachus
+Mediterranean monk seal (M. monachus)
+Hawaiian monk seal (M. schauinslandi)
+Ommatophoca
+Ross seal (O. rossi)
+Pagophilus
+Harp seal (P. groenlandicus)
+Phoca
+Spotted seal (P. largha)
+Harbor seal (P. vitulina)
+Pusa
+Caspian seal (P. caspica)
+Ringed seal (P. hispida)
+Baikal seal (P. sibirica)
+CanidaeLarge family listed belowMustelidaeLarge family listed belowFamily Canidae (includes dogs)Atelocynus
+Short-eared dog (A. microtis)
+Canis
+Side-striped jackal (C. adustus)
+African golden wolf (C. anthus)
+Golden jackal (C. aureus)
+Coyote (C. latrans)
+Gray wolf (C. lupus)
+Black-backed jackal (C. mesomelas)
+Red wolf (C. rufus)
+Ethiopian wolf (C. simensis)
+Cerdocyon
+Crab-eating fox (C. thous)
+Chrysocyon
+Maned wolf (C. brachyurus)
+Cuon
+Dhole (C. alpinus)
+Lycalopex
+Culpeo (L. culpaeus)
+Darwin's fox (L. fulvipes)
+South American gray fox (L. griseus)
+Pampas fox (L. gymnocercus)
+Sechuran fox (L. sechurae)
+Hoary fox (L. vetulus)
+Lycaon
+African wild dog (L. pictus)
+Nyctereutes
+Raccoon dog (N. procyonoides)
+Otocyon
+Bat-eared fox (O. megalotis)
+Speothos
+Bush dog (S. venaticus)
+Urocyon
+Gray fox (U. cinereoargenteus)
+Island fox (U. littoralis)
+Vulpes (Foxes)
+Bengal fox (V. bengalensis)
+Blanford's fox (V. cana)
+Cape fox (V. chama)
+Corsac fox (V. corsac)
+Tibetan sand fox (V. ferrilata)
+Arctic fox (V. lagopus)
+Kit fox (V. macrotis)
+Pale fox (V. pallida)
+Rüppell's fox (V. rueppelli)
+Swift fox (V. velox)
+Red fox (V. vulpes)
+Fennec fox (V. zerda)
+Family MustelidaeHelictidinae(Ferret-badgers)Melogale
+Bornean ferret-badger (M. everetti)
+Chinese ferret-badger (M. moschata)
+Javan ferret-badger (M. orientalis)
+Burmese ferret-badger (M. personata)
+Vietnam ferret-badger (M. cucphuongensis)
+Guloninae(Martins and wolverines)Eira
+Tayra (E. barbara)
+Gulo
+Wolverine (G. gulo)
+Martes(Martens)
+American marten (M. americana)
+Newfoundland pine marten (M. atrata)
+Yellow-throated marten (M. flavigula)
+Beech marten (M. foina)
+Nilgiri marten (M. gwatkinsii)
+European pine marten (M. martes)
+Japanese marten (M. melampus)
+Sable (M. zibellina)
+Pekania
+Fisher (P. pennanti)
+Ictonychinae(African polecats and grisons)Galictis
+Lesser grison (G. cuja)
+Greater grison (G. vittata)
+Ictonyx
+Saharan striped polecat (I. libyca)
+Striped polecat (I. striatus)
+Lyncodon
+Patagonian weasel (L. patagonicus)
+Poecilogale
+African striped weasel (P. albinucha)
+Vormela
+Marbled polecat (V. peregusna)
+Lutrinae(Otters)Aonyx
+African clawless otter (A. capensis)
+Oriental small-clawed otter (A. cinerea)
+Enhydra
+Sea otter (E. lutris)
+Hydrictis
+Spotted-necked otter (H. maculicollis)
+Lontra
+North American river otter (L. canadensis)
+Marine otter (L. felina)
+Neotropical otter (L. longicaudis)
+Southern river otter (L. provocax)
+Lutra
+Eurasian otter (L. lutra)
+Hairy-nosed otter (L. sumatrana)
+Lutrogale
+Smooth-coated otter (L. perspicillata)
+Pteronura
+Giant otter (P. brasiliensis)
+Melinae(Eurasian badgers)Arctonyx
+Hog badger (A. collaris)
+Meles
+Japanese badger (M. anakuma)
+Asian badger (M. leucurus)
+European badger (M. meles)
+MellivorinaeMellivora
+Honey badger (M. capensis)
+Mustelinae(Weasels and minks)Mustela(Weasels and ferrets)
+Amazon weasel (M. africana)
+Mountain weasel (M. altaica)
+Stoat (M. erminea)
+Steppe polecat (M. eversmannii)
+Colombian weasel (M. felipei)
+Long-tailed weasel (M. frenata)
+Japanese weasel (M. itatsi)
+Yellow-bellied weasel (M. kathiah)
+European mink (M. lutreola)
+Indonesian mountain weasel (M. lutreolina)
+Black-footed ferret (M. nigripes)
+Least weasel (M. nivalis)
+Malayan weasel (M. nudipes)
+European polecat (M. putorius)
+Siberian weasel (M. sibirica)
+Back-striped weasel (M. strigidorsa)
+Egyptian weasel (M. subpalmata)
+Neovison
+American mink (N. vison)
+TaxidiinaeTaxidea
+American badger (T. taxus)
+
+vteExtant gray wolf subspecies
+Kingdom: Animalia
+Phylum: Chordata
+Class: Mammalia
+Order: Carnivora
+Family: Canidae
+Genus: Canis
+Species: lupus
+Old Worldsubspecies
+Tundra wolf (C. l. albus)
+Arabian wolf (C. l. arabs)
+Steppe wolf (C. l. campestris)
+Mongolian wolf (C. l. chanco)
+Dingo (C. l. dingo)
+Domestic dog (C. l. familiaris or C. familiaris)
+Tibetan wolf (C. l. filchneri)
+Eurasian wolf (C. l. lupus)
+Indian wolf (C. l. pallipes)
+New Worldsubspecies
+Arctic wolf (C. l. arctos)
+Mexican wolf (C. l. baileyi)
+British Columbian wolf (C. l. columbianus)
+Vancouver Island wolf (C. l. crassodon)
+Hudson Bay wolf (C. l. hudsonicus)
+Northern Rocky Mountain wolf (C. l. irremotus)
+Labrador wolf (C. l. labradorius)
+Alexander Archipelago wolf (C. l. ligoni)
+Eastern wolf (C. l. lycaon)
+Mackenzie River wolf (C. l. mackenzii)
+Baffin Island wolf (C. l. manningi)
+Northwestern wolf (C. l. occidentalis)
+Greenland wolf (C. l. orion)
+Alaskan Interior wolf (C. l. pambasileus)
+Red wolf (C. l. rufus)
+Alaskan tundra wolf (C. l. tundrarum)
+
+
+
+Taxon identifiersCanis lupus familiaris
+Wikidata: Q26972265
+ADW: Canis_lupus_familiaris
+EoL: 1228387
+EPPO: CANIFA
+GBIF: 6164210
+ISC: 90295
+ITIS: 726821
+MSW: 14000752
+NCBI: 9615
+NZOR: db725874-7d02-4221-a93d-18894fb55417
+Canis familiaris
+Wikidata: Q20717272
+Fossilworks: 104153
+GBIF: 5219200
+iNaturalist: 47144
+IRMNG: 10681653
+ITIS: 183815
+
+Authority control 
+BNF: cb11931181t (data)
+GND: 4026181-5
+HDS: 013865
+LCCN: sh85038796
+NDL: 00564180
+
+<!-- 
+NewPP limit report
+Parsed by mw1298
+Cached time: 20191206034828
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 3.628 seconds
+Real time usage: 4.496 seconds
+Preprocessor visited node count: 34102/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 931971/2097152 bytes
+Template argument size: 18474/2097152 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 36/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 662723/5000000 bytes
+Number of Wikibase entities loaded: 23/400
+Lua time usage: 2.190/10.000 seconds
+Lua memory usage: 14.84 MB/50 MB
+Lua Profile:
+    ?                                                                340 ms       14.9%
+    recursiveClone                                    280 ms       12.3%
+    Scribunto_LuaSandboxCallback::getEntity                          280 ms       12.3%
+    Scribunto_LuaSandboxCallback::expandTemplate                     200 ms        8.8%
+    Scribunto_LuaSandboxCallback::callParserFunction                 160 ms        7.0%
+    Scribunto_LuaSandboxCallback::getExpandedArgument                120 ms        5.3%
+    Scribunto_LuaSandboxCallback::unstripNoWiki                      100 ms        4.4%
+                                                         100 ms        4.4%
+    Scribunto_LuaSandboxCallback::getAllExpandedArguments             60 ms        2.6%
+    is_alias_used                  60 ms        2.6%
+    [others]                                                         580 ms       25.4%
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 3951.136      1 -total
+ 47.31% 1869.385      1 Template:Reflist
+ 19.58%  773.668     85 Template:Cite_journal
+ 18.89%  746.386      1 Template:Subspeciesbox
+ 18.79%  742.340      1 Template:Taxobox/core
+ 10.64%  420.210      1 Template:Taxonbar
+ 10.55%  416.945     53 Template:Cite_book
+  6.30%  248.728     46 Template:Cite_web
+  4.77%  188.316      1 Template:Geological_range
+  4.75%  187.651     36 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4269567-0!canonical and timestamp 20191206034828 and revision id 929485161
+ -->
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Dog&amp;oldid=929485161"
+		
+		Categories: Domesticated animalsDogsWolvesCosmopolitan vertebratesScavengersCosmopolitan speciesAnimal modelsExtant Late Pleistocene first appearancesMammals described in 1758Taxa named by Carl LinnaeusHidden categories: Pages with reference errorsPages with incorrect ref formattingCS1 Latin-language sources (la)Webarchive template wayback linksCS1 maint: uses authors parameterCS1 German-language sources (de)CS1: long volume valueCS1 maint: multiple names: authors listCS1 errors: missing periodicalWikipedia articles needing page number citations from September 2010CS1 maint: extra text: authors listPages using web citations with no URLWikipedia indefinitely semi-protected pagesWikipedia indefinitely move-protected pagesUse American English from December 2017All Wikipedia articles written in American EnglishArticles with 'species' microformatsAll articles with failed verificationArticles with failed verification from April 2016Commons category link is locally definedUse dmy dates from September 2018Taxonbars desynced from WikidataTaxonbars using multiple manual Wikidata itemsTaxonbars on possible non-taxon pagesWikipedia articles with BNF identifiersWikipedia articles with GND identifiersWikipedia articles with HDS identifiersWikipedia articles with LCCN identifiersWikipedia articles with NDL identifiers
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+									
+						Personal tools
+						
+							Not logged inTalkContributionsCreate accountLog in						
+					
+									
+										
+						Namespaces
+						
+							ArticleTalk						
+					
+										
+												
+						
+							Variants
+						
+						
+													
+					
+									
+				
+										
+						Views
+						
+							ReadView sourceView history						
+					
+										
+						
+						More
+						
+													
+					
+										
+						
+							Search
+						
+						
+							
+															
+						
+					
+									
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia CommonsWikispeciesWikiquote				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					AcèhАдыгабзэAfrikaansAlemannischአማርኛАҧсшәаالعربيةAragonésܐܪܡܝܐArmãneashtiArpetanঅসমীয়াAsturianuAtikamekwAvañe'ẽАварAymar aruAzərbaycancaتۆرکجهBaliBamanankanবাংলাBanjarBân-lâm-gúБашҡортсаБеларускаяБеларуская (тарашкевіца)‎भोजपुरीBikol CentralBislamaБългарскиBoarischབོད་ཡིགBosanskiBrezhonegБуряадCatalàЧӑвашлаCebuanoČeštinaChiShonaChiTumbukaCorsuCymraegDanskDeitschDeutschDiné bizaadDolnoserbskiEestiΕλληνικάEmiliàn e rumagnòlЭрзяньEspañolEsperantoEstremeñuEuskaraEʋegbeفارسیFiji HindiFøroysktFrançaisFryskFurlanGaeilgeGaelgGàidhligGalegoГӀалгӀай贛語گیلکی𐌲𐌿𐍄𐌹𐍃𐌺客家語/Hak-kâ-ngîХальмг한국어HausaՀայերենԱրեւմտահայերէնहिन्दीHornjoserbsceHrvatskiIdoIlokanoBahasa IndonesiaInterlinguaᐃᓄᒃᑎᑐᑦ/inuktitutIñupiakIsiXhosaIsiZuluÍslenskaItalianoעבריתJawaKabɩyɛಕನ್ನಡKapampanganქართულიकॉशुर / کٲشُرKaszëbscziҚазақшаKinyarwandaKiswahiliКомиKreyòl ayisyenKurdîКыргызчаКырык марыLadinoЛаккуລາວLatinaLatviešuLëtzebuergeschЛезгиLietuviųLigureLimburgsLingálaLingua Franca NovaLivvinkarjalaLa .lojban.LugandaLumbaartMagyarमैथिलीМакедонскиMalagasyമലയാളംMaltiमराठीმარგალურიمصرىمازِرونیBahasa MelayuMinangkabauMìng-dĕ̤ng-ngṳ̄MirandésМокшеньМонголမြန်မာဘာသာNāhuatlDorerin NaoeroNa Vosa VakavitiNederlandsNedersaksiesNēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣनेपालीनेपाल भाषा日本語NapulitanoNordfriiskNorskNorsk nynorskNouormandOccitanОлык марийଓଡ଼ିଆOʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیPapiamentuپښتوPatoisПерем Комиភាសាខ្មែរPicardPiemontèisPlattdüütschPolskiPortuguêsRipoarischRomânăRomani čhibRumantschRuna SimiРусиньскыйРусскийСаха тылаᱥᱟᱱᱛᱟᱲᱤGagana Samoaसंस्कृतम्SarduScotsSeelterskSesotho sa LeboaShqipSicilianuසිංහලSimple EnglishسنڌيSlovenčinaSlovenščinaСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟŚlůnskiSoomaaligaکوردیSranantongoСрпски / srpskiSrpskohrvatski / српскохрватскиၽႃႇသႃႇတႆး SundaSuomiSvenskaTagalogதமிழ்TaqbaylitТатарча/tatarçaతెలుగుไทยТоҷикӣᏣᎳᎩTsetsêhestâheseತುಳುTürkçeТыва дылУдмуртУкраїнськаاردوئۇيغۇرچە / UyghurcheVahcuenghVènetoVepsän kel’Tiếng ViệtVolapükVõroWalon文言West-VlamsWinarayWolof吴语ייִדישYorùbá粵語ZazakiŽemaitėška中文ဘာသာ မန်Sakizaya				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 6 December 2019, at 03:48&#160;(UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Dog","url":"https:\/\/en.wikipedia.org\/wiki\/Dog","sameAs":"http:\/\/www.wikidata.org\/entity\/Q144","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q144","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-10-06T00:00:04Z","dateModified":"2019-12-06T03:48:09Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d9\/Collage_of_Nine_Dogs.jpg","headline":"domestic animal"}
+
+
+
