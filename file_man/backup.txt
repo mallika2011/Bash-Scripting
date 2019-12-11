@@ -1,0 +1,35 @@
+local:
+logout: write utmp and wtmp entries
+locale-ge:
+logrotate: rotates, compresses, and mails system logs
+localedef: compile locale definition files
+loimpress: LibreOffice office suite
+loadunimap:font mapping table
+loweb: LibreOffice office suite
+lofromtemplate: LibreOffice office suite
+look: display lines beginning with a given string
+lodraw: LibreOffice office suite
+locale-check:
+logger: enter messages into the system log
+logname: print user's login name
+loadkeys: load keyboard translation tables
+lowriter: LibreOffice office suite
+lomath: LibreOffice office suite
+locale: description of multilanguage support
+specific information
+ describes a locale definition file
+loffice: LibreOffice office suite
+lorder: list dependencies for object files
+locate: find files by name
+localc: LibreOffice office suite
+localectl: Control the system locale and keyboard layout settings
+losetup: set up and control loop devices
+logsave: save the output of a command in a logfile
+logi:
+lowntfs-3g: Third Generation Read/Write NTFS Driver
+loginctl: Control the systemd login manager
+loadkeys: load keyboard translation tables
+locale-ge:
+logrotate: rotates, compresses, and mails system logs
+locale-ge:
+logrotate: rotates, compresses, and mails system logs
